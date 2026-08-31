@@ -1,4 +1,4 @@
-# 🚗 Automobile Sales Analytics: End-to-End Data Pipeline & Dashboard
+# 🚗 Analisis de ventas automotriz: End-to-End Data Pipeline & Dashboard
 
 ## 📌 Descripción
 
@@ -547,4 +547,4 @@ INSIGHTS DE NEGOCIO
 
 ## 👨‍💻 Autor
 
-Proyecto desarrollado como prueba práctica de desempeño en **Analítica e Ingeniería de Datos M5.7 - Cohorte 7**.
+Proyecto desarrollado como prueba práctica de desempeño en **Analítica e Ingeniería de Datos M5.7 - Cohorte 7** Por **Joshua Quintero - Coder**.
