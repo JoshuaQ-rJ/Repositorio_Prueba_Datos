@@ -1,0 +1,1001 @@
+﻿ID_Venta,Marca,Pais_Origen,Tipo_Carroceria,Tipo_Combustible,Caballos_Fuerza,Precio_Catalogo_Original,Sede,Ciudad_Sede,Precio_Construccion,Precio_Publico,Cantidad_Vendida,Anio_Venta
+1,Chevrolet,Estados Unidos,Hatchback,Gas,50,5253,Primeauto Andino,Pereira,3298,6329,191,2026-01-01
+2,Toyota,Japon,Hatchback,Diesel,56,7819,Velocitymotors,Bucaramanga,4792,9238,177,2025-01-01
+3,Saab,Suecia,Sedan,Gas,112,15689,Velocitymotors,Bucaramanga,10232,18984,126,2026-01-01
+4,Nissan,Japon,Sedan,Gas,69,6830,Velocitymotors,Bucaramanga,4425,7953,203,2024-01-01
+5,Nissan,Japon,Sedan,Diesel,55,6898,Primeauto Andino,Pereira,8511,7797,143,2025-01-01
+6,Toyota,Japon,Sedan,Gas,89,11233,Primeauto Andino,Cali,6965,13277,191,2025-01-01
+7,Chevrolet,Estados Unidos,Hatchback,Gas,49,5118,Primeauto Andino,Pereira,3504,6195,176,2026-01-01
+8,Subaru,Japon,Sedan,Gas,80,9339,Motorcenter Sur,Medellin,5460,9830,189,2025-01-01
+9,Honda,Japon,Sedan,Gas,103,13026,Autoplaza Norte,Bogota,8459,13981,175,2026-01-01
+10,Chevrolet,Estados Unidos,Hatchback,Gas,73,6159,Motor Center Sur,Medellin,4328,7114,218,2024-01-01
+11,Peugot,Francia,Sedan,Diesel,96,13190,Carworld Pacifico,Cali,9356,15081,107,2026-01-01
+12,Volvo,Suecia,Sedan,Gas,113,16478,Motorcenter Sur,Medellin,9831,19329,103,2026-01-01
+13,Toyota,Japon,Hatchback,Gas,63,6100,Velocity Motors,Bucaramanga,4222,7418,175,2026-01-01
+14,Toyota,Japon,Sedan,Gas,69,6852,Drivehub Caribe,Barranquilla,5201,7769,213,2024-01-01
+15,Subaru,Japon,Wagon,Gas,85,7703,Drivehub Caribe,Barranquilla,4795,9597,165,2025-01-01
+16,Toyota,Japon,Hatchback,Gas,66,8452,Drivehub Caribe,Barranquilla,5121,9381,181,2026-01-01
+17,Nissan,Japon,Hatchback,Gas,158,17658,Autoplaza Norte,Bogota,10940,21713,103,2025-01-01
+18,Dodge,Estados Unidos,Sedan,Gas,63,7799,Velocitymotors,Bucaramanga,4700,8854,189,2026-01-01
+19,Toyota,Japon,Convertible,Gas,110,16938,Carworld Pacifico,Cali,13711,19144,119,2026-01-01
+20,Nissan,Japon,Wagon,Gas,72,7203,Motorcenter Sur,Medellin,4849,8423,191,2026-01-01
+21,Nissan,Japon,Sedan,Gas,157,13204,Velocitymotors,Bucaramanga,9582,15141,167,2025-01-01
+22,Mitsubishi,Japon,Hatchback,Gas,66,6476,Primeauto Andino,Pereira,4099,7101,171,2026-01-01
+23,Honda,Japon,Hatchback,Gas,81,7986,Primeauto Andino,Pereira,4976,8688,195,2026-01-01
+24,Volkswagen,Alemania,Hatchback,Gas,81,9906,Velocitymotors,Bucaramanga,8909,10634,206,2025-01-01
+25,Toyota,Japon,Hatchback,Gas,69,8504,Drivehub Caribe,Barranquilla,5309,9586,212,2026-01-01
+26,Saab,Suecia,Sedan,Gas,119,11272,Autoplaza Norte,Bogota,7400,13656,198,2026-01-01
+27,Mitsubishi,Japon,Hatchback,Gas,147,14847,Motorcenter Sur,Medellin,9384,16339,140,2026-01-01
+28,Toyota,Japon,Hatchback,Gas,102,10687,Velocitymotor,Bucaramanga,7109,11610,174,2023-01-01
+29,Peugot,Francia,Sedan,Diesel,97,16978,Drivehub Caribe,Cali,11043,17957,143,2026-01-01
+30,Nissan,Japon,Sedan,Gas,65,6865,Velocitymotors,Bucaramanga,8365,7891,159,2025-01-01
+31,Nissan,Japon,Wagon,Gas,68,7490,Motorcenter Sur,Medellin,5041,8081,214,2026-01-01
+32,Jaguar,Reino Unido,Sedan,Gas,177,36664,Autoplaza Norte,Bogota,23579,36714,63,2026-01-01
+33,Chevrolet,Estados Unidos,Hatchback,Gas,70,5855,Motor Center Sur,Medellin,4327,7709,183,2024-01-01
+34,Peugot,Francia,Wagon,Diesel,98,16070,Autoplaza Norte,Bogota,12794,19401,149,2025-01-01
+35,Volkswagen,Alemania,Sedan,Diesel,53,7832,Primeauto Andino,Cali,5237,8974,188,2024-01-01
+36,Bmw,Alemania,Sedan,Gas,124,20577,Primeauto Andino,Pereira,13069,24117,143,2026-01-01
+37,Toyota,Japon,Sedan,Gas,90,11398,Primeauto Andino,Cali,7288,12918,166,2025-01-01
+38,Toyota,Japon,Hardtop,Gas,120,11075,Primeauto Andino,Pereira,6595,12219,178,2026-01-01
+39,Mazda,Japon,Hatchback,Gas,143,14586,Velocitymotors,Cali,10686,18199,152,2026-01-01
+40,Renault,Francia,Wagon,Gas,100,8882,Primeauto Andino,Pereira,5618,10055,146,2026-01-01
+41,Honda,Japon,Hatchback,Gas,74,6443,Carworld Pacifico,Cali,4499,7538,205,2026-01-01
+42,Toyota,Japon,Sedan,Gas,73,6881,Drivehub Caribe,Barranquilla,4973,7315,206,2024-01-01
+43,Subaru,Japon,Sedan,Gas,81,9172,Motorcenter Sur,Medellin,4881,9255,184,2025-01-01
+44,Mercedes-Benz,Alemania,Hardtop,Gas,193,44726,Primeauto Andino,Pereira,29373,48473,1,2023-01-01
+45,Bmw,Alemania,Sedan,Gas,119,25493,Velocitymotors,Bucaramanga,17024,29306,98,2026-01-01
+46,Volvo,Suecia,Wagon,Gas,170,19745,Drivehub Caribe,Barranquilla,11689,21851,113,2026-01-01
+47,Nissan,Japon,Sedan,Gas,69,6808,Velocitymotors,Bucaramanga,8434,7393,164,2025-01-01
+48,Volkswagen,Alemania,Sedan,Gas,86,7379,Autoplaza Norte,Bogota,4649,8466,193,2026-01-01
+49,Subaru,Japon,Hatchback,Gas,77,7767,Motorcenter Sur,Medellin,8383,9003,204,2026-01-01
+50,Toyota,Japon,Sedan,Gas,69,7888,Drivehub Caribe,Barranquilla,5291,9045,195,2025-01-01
+51,Toyota,Japon,Sedan,Gas,68,7013,Drivehub Caribe,Barranquilla,5105,7348,213,2024-01-01
+52,Honda,Japon,Sedan,Gas,85,10649,Carworld Pacifico,Cali,6537,11855,172,2024-01-01
+53,Mitsubishi,Japon,Hatchback,Gas,69,5169,Carworld Pacifico,Cali,3505,6282,168,2023-01-01
+54,Nissan,Japon,Sedan,Gas,65,8026,Autoplaza Nrote,Bogota,4621,8960,202,2026-01-01
+55,Nissan,Japon,Sedan,Gas,155,13046,Velocitymotors,Bucaramanga,9847,13794,159,2025-01-01
+56,Audi,Alemania,Sedan,Gas,137,24501,Drivehub Caribe,Barranquilla,13969,29171,83,2026-01-01
+57,Peugot,Francia,Sedan,Diesel,99,15902,Drivehub Caribe,Cali,10529,18415,139,2026-01-01
+58,Honda,Japon,Hatchback,Gas,55,5223,Motorcenter Sur,Medellin,3980,6020,180,2025-01-01
+59,Toyota,Japon,Wagon,Gas,60,7285,Primeauto Andino,Cali,4108,8024,169,2026-01-01
+60,Subaru,Japon,Sedan,Gas,77,7061,Primeauto Andino,Pereira,3993,8517,204,2023-01-01
+61,Volkswagen,Alemania,Convertible,Gas,87,11936,Carworld Pacifico,Cali,8667,13327,148,2026-01-01
+62,Toyota,Japon,Wagon,Gas,63,6975,Primeauto Andino,Cali,3974,8214,136,2026-01-01
+63,Mitsubishi,Japon,Hatchback,Gas,68,5369,Carworld Pacifico,Cali,3583,6294,176,2023-01-01
+64,Volvo,Suecia,Sedan,Gas,161,19299,Autoplaza Norte,Bogota,8532,21660,112,2026-01-01
+65,Mitsubishi,Japon,Sedan,Gas,88,6931,Carworld Pacifico,Cali,4769,7973,184,2025-01-01
+66,Mercedes-Benz,Alemania,Wagon,Diesel,124,26487,Carworld Pacifico,Cali,19755,33070,68,2026-01-01
+67,Volkswagen,Alemania,Sedan,Gas,82,8256,Drivehub Caribe,Barranquilla,5439,10238,153,2026-01-01
+68,Mitsubishi,Japon,Hatchback,Gas,70,6308,Primeauto Andino,Pereira,3719,6761,193,2026-01-01
+69,Bmw,Alemania,Sedan,Gas,186,41887,Carworld Pacifico,Cali,8695,48136,32,2024-01-01
+70,Nissan,Japon,Wagon,Gas,70,7560,Carworld Pacifico,Cali,5112,9194,213,2026-01-01
+71,Toyota,Japon,Sedan,Gas,71,7854,Carworld Pacifico,Cali,4852,8527,188,2025-01-01
+72,Honda,Japon,Sedan,Gas,87,8665,Carworld Pacifico,Cali,6430,10561,196,2025-01-01
+73,Nissan,Japon,Sedan,Gas,74,7403,Autoplaza Nrote,Bogota,4310,8289,208,2026-01-01
+74,Dodge,Estados Unidos,Sedan,Gas,102,8146,Carworld Pacifico,Cali,6187,10107,218,2025-01-01
+75,Subaru,Japon,Sedan,Gas,81,6969,Primeauto Andino,Pereira,3875,8390,212,2023-01-01
+76,Nissan,Japon,Hardtop,Gas,67,8039,Carworld Pacifico,Cali,5227,9627,209,2025-01-01
+77,Mercedes-Benz,Alemania,Hardtop,Diesel,119,28937,Motorcenter Sur,Medellin,19833,31285,94,2025-01-01
+78,Jaguar,Reino Unido,Sedan,Gas,168,36557,Autoplaza Norte,Bogota,24577,38300,61,2026-01-01
+79,Peugot,Francia,Sedan,Diesel,92,17858,Velocitymotors,Bucaramanga,11542,20146,151,2026-01-01
+80,Subaru,Japon,Hatchback,Gas,69,5118,Autoplaza Norte,Bogota,3116,5763,197,2024-01-01
+81,Volkswagen,Alemania,Wagon,Gas,89,12350,Primeauto Andino,Pereira,7843,12981,146,2026-01-01
+82,Nissan,Japon,Sedan,Diesel,55,6896,Primeauto Andino,Pereira,8942,7183,155,2025-01-01
+83,Honda,Japon,Hatchback,Gas,74,6267,Carworld Pacifico,Cali,4254,7182,158,2025-01-01
+84,Toyota,Japon,Hatchback,Gas,120,11169,Carworld Pacifico,Cali,6923,12954,156,2026-01-01
+85,Renault,Francia,Wagon,Gas,106,9088,Primeauto Andino,Pereira,5474,10923,162,2026-01-01
+86,Subaru,Japon,Sedan,Gas,82,8857,Motorcenter Sur,Medellin,5246,10045,138,2025-01-01
+87,Chevrolet,Estados Unidos,Sedan,Gas,68,6612,Carworld Pacifico,Cali,3780,7217,216,2024-01-01
+88,Mazda,Japon,Sedan,Gas,122,18747,Drivehub Caribe,Barranquilla,12458,20577,168,2026-01-01
+89,Toyota,Japon,Sedan,Diesel,56,7459,Carworld Pacifico,Cali,4477,8747,212,2024-01-01
+90,Toyota,Japon,Hatchback,Gas,110,11559,Carworld Pacifico,Cali,7189,12671,149,2026-01-01
+91,Nissan,Japon,Sedan,Diesel,55,7044,Primeauto Andino,Pereira,8737,7719,171,2025-01-01
+92,Toyota,Japon,Sedan,Gas,113,9409,Motorcenter Sur,Medellin,6272,10527,191,2026-01-01
+93,Toyota,Japon,Sedan,Gas,100,8944,Carworld Pacifco,Cali,6240,10631,183,2025-01-01
+94,Mitsubishi,Japon,Hatchback,Gas,117,9452,Motorcenter Sur,Medellin,5499,10368,195,2025-01-01
+95,Volkswagen,Alemania,Sedan,Diesel,49,7642,Autoplaza Norte,Bogota,5939,8940,173,2024-01-01
+96,Mazda,Japon,Sedan,Gas,88,8504,Carworld Pacifico,Cali,4999,9751,157,2026-01-01
+97,Mazda,Japon,Hatchback,Gas,71,6314,Autoplaza Norte,Bogota,3446,6946,132,2025-01-01
+98,Subaru,Japon,Sedan,Gas,81,6574,Primeauto Andino,Pereira,4101,8630,181,2023-01-01
+99,Renault,Francia,Hatchback,Gas,105,10015,Drivehub Caribe,Cali,6373,10579,144,2025-01-01
+100,Dodge,Estados Unidos,Hatchback,Gas,133,13504,Autoplaza Norte,Bogota,7260,15215,146,2026-01-01
+101,Toyota,Japon,Hatchback,Gas,111,11487,Carworld Pacifico,Cali,6885,13246,160,2026-01-01
+102,Honda,Japon,Sedan,Gas,100,13194,Autoplaza Norte,Bogota,8434,14137,182,2026-01-01
+103,Toyota,Japon,Sedan,Gas,108,9069,Motorcenter Sur,Medellin,6035,10373,205,2026-01-01
+104,Alfa-Romero,Italia,Convertible,Gas,106,16431,Velocitymotors,Bucaramanga,9439,19422,118,2026-01-01
+105,Toyota,Japon,Hatchback,Gas,75,7771,Motorcenter Sur,Medellin,6334,9609,155,2026-01-01
+106,Toyota,Japon,Sedan,Gas,67,8498,Primeauto Andino,Pereira,6644,9728,143,2026-01-01
+107,Toyota,Japon,Sedan,Gas,68,7993,Drivehub Caribe,Barranquilla,5338,8637,204,2025-01-01
+108,Saab,Suecia,Sedan,Gas,161,17978,Drivehub Caribe,Barranquilla,11932,20513,102,2025-01-01
+109,Nissan,Japon,Wagon,Gas,73,7871,Carworld Pacifico,Cali,5550,9258,190,2026-01-01
+110,Subaru,Japon,Sedan,Gas,106,10713,Motorcenter Sur,Medellin,6879,12082,172,2026-01-01
+111,Mazda,Japon,Hatchback,Gas,136,14873,Velocitymotors,Cali,12226,18629,198,2026-01-01
+112,Toyota,Japon,Sedan,Gas,74,7691,Drivehub Caribe,Barranquilla,5171,9117,185,2025-01-01
+113,Peugot,Francia,Wagon,Diesel,90,16639,Autoplaza Norte,Bogota,13057,19463,145,2025-01-01
+114,Nissan,Japon,Hatchback,Gas,66,7902,Motorcenter Sur,Medellin,4687,8875,193,2026-01-01
+115,Nissan,Japon,Hatchback,Gas,158,17471,Autoplaza Norte,Bogota,9332,21074,118,2024-01-01
+116,Peugot,Francia,Sedan,Gas,139,18354,Motorcenter Sur,Medellin,11139,19440,122,2024-01-01
+117,Audi,Alemania,Wagon,Gas,113,19078,Drivehub Caribe,Barranquilla,14323,22109,139,2024-01-01
+118,Dodge,Estados Unidos,Hatchback,Gas,146,13680,Autoplaza Norte,Bogota,7017,13955,164,2026-01-01
+119,Mazda,Japon,Hatchback,Gas,64,6541,Carworld Pacifico,Cali,5256,7936,218,2025-01-01
+120,Dodge,Estados Unidos,Hatchback,Gas,69,6217,Motorcenter Sur,Medellin,3936,6887,218,2026-01-01
+121,Nissan,Japon,Sedan,Gas,68,6913,Velocitymotors,Bucaramanga,4660,8370,203,2024-01-01
+122,Subaru,Japon,Hatchback,Gas,72,5345,Autoplaza Norte,Bogota,3077,5622,186,2024-01-01
+123,Saab,Suecia,Sedan,Gas,108,14738,Velocitymotors,Bucaramanga,10318,19078,130,2026-01-01
+124,Nissan,Japon,Wagon,Gas,67,7912,Carworld Pacifico,Cali,5655,9462,195,2026-01-01
+125,Toyota,Japon,Hatchback,Gas,94,10463,Carworld Pacifico,Cali,6092,11678,186,2026-01-01
+126,Peugot,Francia,Sedan,Diesel,98,18269,Velocitymotors,Bucaramanga,10589,19550,154,2026-01-01
+127,Bmw,Alemania,Sedan,Gas,185,41597,Carworld Pacifico,Cali,8486,49622,38,2024-01-01
+128,Toyota,Japon,Hatchback,Gas,66,7143,Velocitymotors,Bucaramanga,4444,8138,175,2026-01-01
+129,Plymouth,Estados Unidos,Hatchback,Gas,106,5497,Motorcenter Sur,Medellin,3207,6119,188,2023-01-01
+130,Renault,Francia,Hatchback,Gas,100,9995,Drivehub Caribe,Cali,5726,11350,137,2025-01-01
+131,Peugot,Francia,Sedan,Diesel,96,17791,Velocitymotors,Bucaramanga,11286,20190,195,2026-01-01
+132,Peugot,Francia,Wagon,Diesel,90,17050,Autoplaza Norte,Bogota,12470,18773,143,2025-01-01
+133,Chevrolet,Estados Unidos,Hatchback,Gas,71,6312,Motor Center Sur,Medellin,4150,7308,185,2024-01-01
+134,Peugot,Francia,Sedan,Gas,94,16235,Drive Hub Caribe,Barranquilla,8786,17211,107,2026-01-01
+135,Toyota,Japon,Sedan,Gas,67,8208,Carworld Pacifico,Cali,4754,9164,218,2025-01-01
+136,Mazda,Japon,Hatchback,Gas,86,12392,Velocitymotors,Bucaramanga,7092,12718,123,2026-01-01
+137,Plymouth,Estados Unidos,Hatchback,Gas,146,11970,Autoplaza Norte,Bogota,7434,14506,143,2024-01-01
+138,Audi,Alemania,Sedan,Gas,108,17911,Drivehub Caribe,Barranquilla,9988,18951,157,2026-01-01
+139,Mercedes-Benz,Alemania,Convertible,Gas,163,34123,Primeauto Andino,Pereira,27373,41460,46,2025-01-01
+140,Nissan,Japon,Sedan,Diesel,54,7242,Primeauto Andino,Pereira,8341,7599,138,2025-01-01
+141,Volvo,Suecia,Sedan,Gas,160,19076,Carworld Pacifico,Cali,10574,21673,114,2026-01-01
+142,Isuzu,Japon,Hatchback,Gas,91,11343,Drivehub Caribe,Barranquilla,8115,11801,151,2024-01-01
+143,Mazda,Japon,Hatchback,Gas,132,16289,Velocitymotors,Cali,11451,18445,188,2026-01-01
+144,Mitsubishi,Japon,Sedan,Gas,89,7036,Carworld Pacifico,Cali,4758,8140,211,2025-01-01
+145,Volvo,Suecia,Sedan,Diesel,104,23360,Primeauto Andiino,Pereira,16669,26133,121,2024-01-01
+146,Toyota,Japon,Hatchback,Gas,91,9168,Carworld Pacifico,Cali,6588,11376,175,2026-01-01
+147,Audi,Alemania,Sedan,Gas,115,18696,Drivehub Caribe,Barranquilla,10792,18116,137,2026-01-01
+148,Mazda,Japon,Hatchback,Gas,66,5263,Carworld Pacifico,Cali,3077,6476,177,2026-01-01
+149,Toyota,Japon,Hatchback,Gas,95,10366,Velocitymotor,Bucaramanga,6881,11644,172,2023-01-01
+150,Bmw,Alemania,Sedan,Gas,128,20075,Drive Hub Caribe,Barranquilla,11709,25590,91,2026-01-01
+151,Toyota,Japon,Hatchback,Gas,100,9698,Carworld Pacifico,Cali,6073,11831,160,2026-01-01
+152,Mazda,Japon,Hatchback,Gas,83,8890,Motorcenter Sur,Medellin,5189,10200,169,2025-01-01
+153,Volkswagen,Alemania,Sedan,Gas,93,9989,Autoplaza Norte,Bogota,5864,11686,180,2026-01-01
+154,Mazda,Japon,Sedan,Gas,83,10347,Car World Pacifico,Cali,7664,11731,157,2025-01-01
+155,Nissan,Japon,Sedan,Diesel,54,7368,Primeauto Andino,Pereira,8906,7174,137,2025-01-01
+156,Saab,Suecia,Sedan,Gas,159,17470,Drivehub Caribe,Barranquilla,11668,20909,88,2025-01-01
+157,Dodge,Estados Unidos,Sedan,Gas,65,7868,Velocitymotors,Bucaramanga,4756,9343,170,2026-01-01
+158,Peugot,Francia,Wagon,Diesel,97,17080,Autoplaza Norte,Bogota,13035,19321,142,2025-01-01
+159,Nissan,Japon,Hatchback,Gas,163,17076,Autoplaza Norte,Bogota,9412,18470,105,2024-01-01
+160,Toyota,Japon,Hatchback,Gas,66,7928,Drivehub Caribe,Barranquilla,5249,8569,211,2026-01-01
+161,Volvo,Suecia,Sedan,Gas,117,23023,Autoplaza Norte,Bogota,13196,25877,121,2026-01-01
+162,Saab,Suecia,Sedan,Gas,171,17047,Drivehub Caribe,Barranquilla,11404,21037,126,2025-01-01
+163,Mitsubishi,Japon,Sedan,Gas,89,7148,Carworld Pacifico,Cali,4690,7973,184,2025-01-01
+164,Mitsubishi,Japon,Hatchback,Gas,143,13732,Primeauto Andino,Pereira,10638,17104,136,2026-01-01
+165,Mitsubishi,Japon,Sedan,Gas,115,9296,Primeauto Andino,Pereira,6077,10468,135,2024-01-01
+166,Toyota,Japon,Hardtop,Gas,118,8414,Primeauto Andiino,Pereira,5261,9686,139,2026-01-01
+167,Mercedes-Benz,Alemania,Sedan,Diesel,116,26598,Autoplaza Norte,Bogota,18496,28338,73,2026-01-01
+168,Honda,Japon,Hatchback,Gas,76,7084,Carworld Pacifico,Cali,4278,7887,203,2026-01-01
+169,Mercedes-Benz,Alemania,Sedan,Diesel,121,30832,Carworld Pacifico,Cali,22813,33715,76,2025-01-01
+170,Audi,Alemania,Sedan,Gas,122,17141,Velocitymotor,Bucaramanga,11583,20517,75,2026-01-01
+171,Dodge,Estados Unidos,Hatchback,Gas,68,6661,Autoplaza Norte,Bogota,3563,7410,190,2026-01-01
+172,Chevrolet,Estados Unidos,Hatchback,Gas,74,6413,Motor Center Sur,Medellin,4397,7651,202,2024-01-01
+173,Toyota,Japon,Hatchback,Diesel,54,7683,Velocitymotors,Bucaramanga,4618,9158,165,2025-01-01
+174,Subaru,Japon,Wagon,Gas,113,11597,Autoplaza Nrote,Bogota,7780,13796,170,2026-01-01
+175,Subaru,Japon,Sedan,Gas,83,8727,Motorcenter Sur,Medellin,5102,9918,182,2025-01-01
+176,Nissan,Japon,Hatchback,Gas,67,7905,Motorcenter Sur,Medellin,5014,8921,169,2026-01-01
+177,Subaru,Japon,Wagon,Gas,83,7519,Drivehub Caribe,Barranquilla,4303,10255,186,2025-01-01
+178,Honda,Japon,Hatchback,Gas,79,6701,Carworld Pacifico,Cali,3992,6996,153,2025-01-01
+179,Volkswagen,Alemania,Sedan,Gas,84,8232,Auto Plaza Norte,Bogota,5314,9069,166,2026-01-01
+180,Nissan,Japon,Sedan,Gas,143,14627,Velocitymotors,Bucaramanga,9164,14479,134,2025-01-01
+181,Volkswagen,Alemania,Sedan,Diesel,68,13312,Drivehub Caribe,Barranquilla,9203,15024,111,2024-01-01
+182,Honda,Japon,Hatchback,Gas,74,6830,Drivehub Caribe,Barranquilla,4667,7367,198,2026-01-01
+183,Nissan,Japon,Wagon,Gas,150,15305,Velocitymotors,Bucaramanga,9089,17233,147,2023-01-01
+184,Subaru,Japon,Sedan,Gas,94,10375,Autoplaza Norte,Bogota,5778,11429,197,2026-01-01
+185,Nissan,Japon,Wagon,Gas,143,14048,Velocitymotors,Bucaramanga,9607,16101,167,2023-01-01
+186,Nissan,Japon,Sedan,Gas,65,6903,Velocitymotors,Bucaramanga,8426,7755,179,2025-01-01
+187,Honda,Japon,Hatchback,Gas,77,7129,Carworld Pacifico,Cali,4195,7237,213,2026-01-01
+188,Mitsubishi,Japon,Hatchback,Gas,100,7765,Motorcenter Sur,Medellin,4496,7674,215,2026-01-01
+189,Mazda,Japon,Hatchback,Gas,62,5118,Carworld Pacifico,Cali,3077,6239,176,2026-01-01
+190,Mazda,Japon,Sedan,Diesel,66,10761,Carworld Pacifico,Cali,7974,12747,122,2025-01-01
+191,Subaru,Japon,Sedan,Gas,83,6727,Primeauto Andino,Pereira,4124,8621,181,2023-01-01
+192,Renault,Francia,Wagon,Gas,101,9339,Primeauto Andino,Pereira,5569,10523,167,2026-01-01
+193,Porsche,Alemania,Hatchback,Gas,99,22365,Primeauto Andino,Pereira,13251,24088,121,2026-01-01
+194,Mercury,Estados Unidos,Hatchback,Gas,180,16372,Motorcenter Sur,Medellin,10000,18759,164,2024-01-01
+195,Volvo,Suecia,Sedan,Gas,115,15081,Primeauto Andino,Pereira,10737,19313,166,2025-01-01
+196,Chevrolet,Estados Unidos,Hatchback,Gas,52,5329,Primeauto Andino,Pereira,3589,5913,198,2026-01-01
+197,Mercedes-Benz,Alemania,Sedan,Gas,157,34620,Motorcenter Sur,Medellin,21726,36940,83,2025-01-01
+198,Dodge,Estados Unidos,Hatchback,Gas,69,6071,Motorcenter Sur,Medellin,3763,6501,199,2026-01-01
+199,Mercedes-Benz,Alemania,Sedan,Gas,154,33848,Motorcenter Sur,Medellin,21685,36268,71,2025-01-01
+200,Volvo,Suecia,Wagon,Gas,117,15648,Velocitymotors,Bucaramanga,10022,18772,180,2026-01-01
+201,Mitsubishi,Japon,Hatchback,Gas,69,5196,Carworld Pacifico,Cali,3460,6328,193,2023-01-01
+202,Volkswagen,Alemania,Sedan,Gas,89,8335,Drivehub Caribe,Barranquilla,5257,9922,132,2026-01-01
+203,Nissan,Japon,Wagon,Gas,149,15018,Velocitymotors,Bucaramanga,9336,16778,148,2023-01-01
+204,Subaru,Japon,Sedan,Gas,81,9026,Motorcenter Sur,Medellin,4938,9439,173,2025-01-01
+205,Nissan,Japon,Sedan,Gas,68,7463,Velocitymotors,Bucaramanga,5363,8806,158,2025-01-01
+206,Mazda,Japon,Hatchback,Gas,106,11622,Autoplaza Norte,Bogota,8261,12126,144,2024-01-01
+207,Toyota,Japon,Hatchback,Gas,74,7260,Velocitymotors,Bucaramanga,4283,8038,170,2026-01-01
+208,Volvo,Suecia,Sedan,Gas,159,18329,Autoplaza Norte,Bogota,8930,23874,105,2026-01-01
+209,Mazda,Japon,Hatchback,Gas,99,11279,Motorcenter Sur,Medellin,7653,13293,151,2024-01-01
+210,Toyota,Japon,Sedan,Gas,71,7593,Drivehub Caribe,Barranquilla,4859,8792,198,2025-01-01
+211,Mazda,Japon,Hatchback,Gas,100,10343,Motorcenter Sur,Medellin,7905,12655,162,2024-01-01
+212,Subaru,Japon,Wagon,Gas,85,7625,Drivehub Caribe,Barranquilla,4441,8959,189,2025-01-01
+213,Toyota,Japon,Sedan,Gas,64,9086,Primeauto Andino,Pereira,6540,9623,129,2026-01-01
+214,Nissan,Japon,Wagon,Gas,67,7028,Motorcenter Sur,Medellin,4990,8876,215,2026-01-01
+215,Toyota,Japon,Hatchback,Gas,60,6581,Carworld Pacifico,Cali,4127,7490,197,2026-01-01
+216,Mazda,Japon,Hatchback,Gas,93,13423,Motorcenter Sur,Medellin,9184,14476,188,2024-01-01
+217,Bmw,Alemania,Sedan,Gas,176,44749,Carworld Pacifico,Cali,8589,46923,34,2024-01-01
+218,Chevrolet,Estados Unidos,Sedan,Gas,68,6175,Carworld Pacifico,Cali,3774,7251,218,2024-01-01
+219,Nissan,Japon,Sedan,Gas,69,6898,Velocitymotors,Bucaramanga,8287,7419,162,2025-01-01
+220,Volkswagen,Alemania,Sedan,Gas,88,7871,Auto Plaza Norte,Bogota,5389,9052,191,2026-01-01
+221,Dodge,Estados Unidos,Sedan,Gas,67,7478,Velocitymotors,Bucaramanga,4605,8647,178,2026-01-01
+222,Nissan,Japon,Sedan,Gas,67,7335,Velocitymotors,Bucaramanga,5493,8498,144,2025-01-01
+223,Subaru,Japon,Sedan,Gas,111,10343,Motorcenter Sur,Medellin,7380,11772,164,2026-01-01
+224,Honda,Japon,Sedan,Gas,105,13052,Autoplaza Norte,Bogota,8522,14356,190,2026-01-01
+225,Subaru,Japon,Wagon,Gas,107,12473,Autoplaza Nrote,Bogota,7738,13391,176,2026-01-01
+226,Mazda,Japon,Hatchback,Gas,81,11067,Velocitymotors,Bucaramanga,7193,12133,164,2026-01-01
+227,Toyota,Japon,Hatchback,Gas,114,9625,Velocitymotors,Cali,7689,10271,177,2026-01-01
+228,Plymouth,Estados Unidos,Hatchback,Gas,101,8242,Autoplaza Norte,Bogota,5203,8829,174,2026-01-01
+229,Peugot,Francia,Sedan,Diesel,97,16803,Drivehub Caribe,Cali,11119,18452,142,2026-01-01
+230,Honda,Japon,Wagon,Gas,76,7147,Primeauto Andiino,Cali,5184,8160,165,2026-01-01
+231,Nissan,Japon,Sedan,Gas,71,6902,Autoplaza Nrote,Bogota,4764,9021,193,2026-01-01
+232,Toyota,Japon,Sedan,Gas,89,11142,Primeauto Andino,Cali,6921,12878,183,2025-01-01
+233,Audi,Alemania,Sedan,Gas,102,13895,Velocitymotors,Bucaramanga,8027,15415,137,2026-01-01
+234,Toyota,Japon,Sedan,Gas,69,6692,Drivehub Caribe,Barranquilla,4985,7194,198,2024-01-01
+235,Nissan,Japon,Wagon,Gas,146,14463,Velocitymotors,Bucaramanga,9590,16532,176,2023-01-01
+236,Subaru,Japon,Wagon,Gas,78,7849,Drivehub Caribe,Barranquilla,4469,9870,198,2025-01-01
+237,Saab,Suecia,Sedan,Gas,164,18276,Drivehub Caribe,Barranquilla,11871,21433,115,2025-01-01
+238,Nissan,Japon,Sedan,Gas,68,5616,Autoplaza Norte,Bogota,3859,6700,185,2026-01-01
+239,Mazda,Japon,Sedan,Gas,116,17424,Drivehub Caribe,Barranquilla,12794,20429,162,2026-01-01
+240,Renault,Francia,Wagon,Gas,103,9636,Primeauto Andino,Pereira,5696,10335,125,2026-01-01
+241,Dodge,Estados Unidos,Hatchback,Gas,151,12330,Autoplaza Norte,Bogota,7861,15242,139,2026-01-01
+242,Plymouth,Estados Unidos,Hatchback,Gas,63,6085,Carworld Pacifco,Cali,3654,6999,172,2026-01-01
+243,Chevrolet,Estados Unidos,Sedan,Gas,66,7018,Carworld Pacifico,Cali,3746,7771,207,2024-01-01
+244,Saab,Suecia,Hatchback,Gas,106,15633,Drivehub Caribe,Barranquilla,10191,16717,157,2025-01-01
+245,Renault,Francia,Wagon,Gas,109,9327,Primeauto Andino,Pereira,5588,10819,174,2026-01-01
+246,Bmw,Alemania,Sedan,Gas,184,35666,Primeauto Andino,Pereira,8275,44297,35,2026-01-01
+247,Toyota,Japon,Sedan,Gas,72,6809,Drivehub Caribe,Barranquilla,4980,7560,190,2024-01-01
+248,Mitsubishi,Japon,Sedan,Gas,84,8210,Primeauto Andino,Pereira,9096,8824,162,2026-01-01
+249,Toyota,Japon,Sedan,Gas,67,9270,Primeauto Andino,Pereira,6332,10177,133,2026-01-01
+250,Audi,Alemania,Sedan,Gas,142,23799,Drivehub Caribe,Barranquilla,13815,27517,89,2026-01-01
+251,Honda,Japon,Hatchback,Gas,86,7886,Primeauto Andino,Pereira,4670,9289,179,2026-01-01
+252,Nissan,Japon,Wagon,Gas,155,14291,Velocitymotors,Bucaramanga,10145,18742,184,2023-01-01
+253,Honda,Japon,Hatchback,Gas,103,8636,Drivehub Caribe,Barranquilla,5093,9944,116,2024-01-01
+254,Mercedes-Benz,Alemania,Hardtop,Diesel,124,27667,Motorcenter Sur,Medellin,19250,30920,88,2025-01-01
+255,Saab,Suecia,Hatchback,Gas,161,18731,Primeauto Andino,Pereira,10903,21381,161,2025-01-01
+256,Honda,Japon,Hatchback,Gas,60,6169,Drivehub Caribee,Barranquilla,8263,6884,193,2026-01-01
+257,Subaru,Japon,Hatchback,Gas,75,7553,Motorcenter Sur,Medellin,8475,9527,196,2026-01-01
+258,Dodge,Estados Unidos,Hatchback,Gas,64,5412,Velocitymotors,Bucaramanga,3776,6366,202,2024-01-01
+259,Honda,Japon,Wagon,Gas,70,7323,Primeauto Andiino,Cali,5446,7895,159,2026-01-01
+260,Plymouth,Estados Unidos,Sedan,Gas,70,6601,Autoplaza Norte,Bogota,4083,7020,205,2026-01-01
+261,Toyota,Japon,Sedan,Gas,73,8475,Carworld Pacifico,Cali,4980,8660,197,2025-01-01
+262,Honda,Japon,Sedan,Gas,73,7424,Prime Auto Andino,Pereira,4903,7838,183,2026-01-01
+263,Mazda,Japon,Sedan,Diesel,60,10299,Carworld Pacifico,Cali,7302,12810,152,2025-01-01
+264,Volkswagen,Alemania,Convertible,Gas,90,11867,Carworld Pacifico,Cali,8850,14455,143,2026-01-01
+265,Volvo,Suecia,Sedan,Gas,138,20902,Drivehub Caribe,Barranquilla,13689,23472,131,2023-01-01
+266,Plymouth,Estados Unidos,Hatchback,Gas,108,7796,Autoplaza Norte,Bogota,5338,8355,197,2026-01-01
+267,Nissan,Japon,Sedan,Gas,70,6924,Velocitymotors,Bucaramanga,8405,7996,146,2025-01-01
+268,Mercedes-Benz,Alemania,Convertible,Gas,153,34453,Primeauto Andino,Pereira,25721,40784,40,2025-01-01
+269,Porsche,Alemania,Hardtop,Gas,201,33544,Velocitymotors,Bucaramanga,22841,39504,52,2026-01-01
+270,Plymouth,Estados Unidos,Sedan,Gas,68,6511,Autoplaza Norte,Bogota,4267,7360,218,2026-01-01
+271,Mazda,Japon,Sedan,Gas,83,10023,Car World Pacifico,Cali,7268,11541,156,2025-01-01
+272,Audi,Alemania,Sedan,Gas,111,17049,Velocitymotor,Bucaramanga,11346,19417,84,2026-01-01
+273,Honda,Japon,Hatchback,Gas,81,6719,Drivehub Caribe,Barranquilla,4743,7677,167,2026-01-01
+274,Volvo,Suecia,Sedan,Gas,121,16600,Primeauto Andino,Pereira,11001,17921,171,2025-01-01
+275,Mitsubishi,Japon,Sedan,Gas,121,9483,Primeauto Andino,Pereira,5854,10847,138,2024-01-01
+276,Nissan,Japon,Hatchback,Gas,94,9485,Carworld Pacifico,Cali,6614,9899,152,2026-01-01
+277,Nissan,Japon,Sedan,Gas,71,8094,Autoplaza Nrote,Bogota,4703,8423,216,2026-01-01
+278,Toyota,Japon,Hatchback,Gas,72,8056,Drivehub Caribe,Barranquilla,5278,9189,173,2026-01-01
+279,Bmw,Alemania,Sedan,Gas,123,24626,Velocitymotors,Bucaramanga,17134,26044,103,2026-01-01
+280,Bmw,Alemania,Sedan,Gas,190,35362,Primeauto Andino,Pereira,8338,43263,37,2026-01-01
+281,Mazda,Japon,Hatchback,Gas,138,15219,Velocitymotors,Cali,10724,18263,216,2026-01-01
+282,Nissan,Japon,Sedan,Gas,100,9338,Velocity Motors,Bucaramanga,5586,10455,158,2026-01-01
+283,Subaru,Japon,Hatchback,Gas,71,5118,Autoplaza Norte,Bogota,3173,5738,211,2024-01-01
+284,Nissan,Japon,Sedan,Gas,154,13002,Autoplaza Norte,Bogota,8606,14943,171,2026-01-01
+285,Nissan,Japon,Sedan,Gas,65,6615,Velocitymotors,Bucaramanga,4333,8033,208,2024-01-01
+286,Volkswagen,Alemania,Sedan,Diesel,68,13255,Drivehub Caribe,Barranquilla,8833,15294,105,2024-01-01
+287,Honda,Japon,Hatchback,Gas,75,6721,Carworld Pacifico,Cali,4263,7338,175,2025-01-01
+288,Peugot,Francia,Sedan,Gas,136,17567,Motorcenter Sur,Medellin,10985,20376,111,2024-01-01
+289,Peugot,Francia,Sedan,Gas,101,17112,Autoplaza Norte,Bogota,9859,18208,190,2026-01-01
+290,Nissan,Japon,Hardtop,Gas,73,8119,Carworld Pacifico,Cali,5832,9550,206,2025-01-01
+291,Toyota,Japon,Hatchback,Gas,117,9562,Velocitymotors,Cali,8718,9588,143,2026-01-01
+292,Mazda,Japon,Hatchback,Gas,105,11308,Autoplaza Norte,Bogota,8727,12850,156,2024-01-01
+293,Volvo,Suecia,Wagon,Gas,119,14216,Autoplaza Norte,Bogota,7463,15774,189,2025-01-01
+294,Mercedes-Benz,Alemania,Hardtop,Diesel,123,29280,Motorcenter Sur,Medellin,18979,32020,89,2025-01-01
+295,Peugot,Francia,Sedan,Diesel,96,17076,Drivehub Caribe,Cali,12192,18022,144,2026-01-01
+296,Peugot,Francia,Sedan,Gas,93,11339,Autoplaza Norte,Bogota,7350,13591,143,2026-01-01
+297,Toyota,Japon,Sedan,Diesel,74,10777,Carworld Pacifico,Cali,5875,12093,147,2026-01-01
+298,Nissan,Japon,Sedan,Gas,69,6388,Velocitymotors,Bucaramanga,4513,7698,201,2024-01-01
+299,Mazda,Japon,Sedan,Gas,80,8930,Carworld Pacifico,Cali,4964,9000,169,2026-01-01
+300,Audi,Alemania,Sedan,Gas,115,17944,Velocitymotor,Bucaramanga,12661,19796,79,2026-01-01
+301,Mitsubishi,Japon,Hatchback,Gas,68,5407,Carworld Pacifico,Cali,3406,5804,210,2023-01-01
+302,Toyota,Japon,Hardtop,Gas,123,10244,Primeauto Andino,Pereira,6582,11810,170,2026-01-01
+303,Alfa-Romero,Italia,Convertible,Gas,107,15932,Velocitymotors,Bucaramanga,9636,20123,124,2026-01-01
+304,Volkswagen,Alemania,Sedan,Diesel,52,8187,Autoplaza Norte,Bogota,5940,10188,169,2024-01-01
+305,Peugot,Francia,Sedan,Diesel,96,17617,Drivehub Caribe,Cali,11200,17840,119,2026-01-01
+306,Dodge,Estados Unidos,Hatchback,Gas,145,13467,Autoplaza Norte,Bogota,7524,14707,134,2026-01-01
+307,Mazda,Japon,Sedan,Diesel,64,10193,Carworld Pacifico,Cali,7771,12552,153,2025-01-01
+308,Peugot,Francia,Wagon,Diesel,91,17255,Autoplaza Norte,Bogota,12482,20357,171,2025-01-01
+309,Mazda,Japon,Sedan,Diesel,72,18996,Primeauto Andino,Pereira,13003,20373,132,2025-01-01
+310,Dodge,Estados Unidos,Hatchback,Gas,66,6007,Autoplaza Norte,Bogota,4014,7221,152,2026-01-01
+311,Saab,Suecia,Sedan,Gas,153,18615,Drivehub Caribe,Barranquilla,11759,22248,89,2025-01-01
+312,Subaru,Japon,Hatchback,Gas,74,7121,Velocitymotors,Bucaramanga,4612,7354,196,2025-01-01
+313,Dodge,Estados Unidos,Hatchback,Gas,69,6163,Motorcenter Sur,Medellin,3940,6829,213,2026-01-01
+314,Mazda,Japon,Hatchback,Gas,79,8272,Motorcenter Sur,Medellin,5399,9898,199,2025-01-01
+315,Mazda,Japon,Hatchback,Gas,68,6718,Carworld Pacifico,Cali,5192,7521,177,2025-01-01
+316,Saab,Suecia,Hatchback,Gas,166,17942,Primeauto Andino,Pereira,11276,20458,166,2025-01-01
+317,Toyota,Japon,Hatchback,Gas,64,5320,Carworld Pacifico,Cali,3379,5705,194,2025-01-01
+318,Toyota,Japon,Hatchback,Gas,64,5243,Carworld Pacifico,Cali,3478,6098,175,2025-01-01
+319,Volkswagen,Alemania,Sedan,Diesel,68,13630,Drivehub Caribe,Barranquilla,9222,14789,110,2024-01-01
+320,Toyota,Japon,Sedan,Diesel,54,7887,Carworld Pacifico,Cali,4365,8399,205,2024-01-01
+321,Mercedes-Benz,Alemania,Sedan,Diesel,118,25948,Autoplaza Norte,Bogota,19474,27980,81,2026-01-01
+322,Dodge,Estados Unidos,Hatchback,Gas,69,6309,Autoplaza Norte,Bogota,3933,7287,176,2026-01-01
+323,Porsche,Alemania,Hardtop,Gas,210,32062,Velocitymotors,Bucaramanga,21492,38184,65,2026-01-01
+324,Volkswagen,Alemania,Sedan,Gas,105,10027,Autoplaza Norte,Bogota,5687,12142,192,2026-01-01
+325,Volvo,Suecia,Sedan,Gas,118,15712,Motorcenter Sur,Medellin,9610,17728,97,2026-01-01
+326,Jaguar,Reino Unido,Sedan,Gas,261,36601,Motorcenter Sur,Medellin,26309,38891,67,2025-01-01
+327,Mazda,Japon,Hatchback,Gas,65,5195,Carworld Pacifico,Cali,3077,6244,179,2026-01-01
+328,Audi,Alemania,Wagon,Gas,109,18946,Drivehub Caribe,Barranquilla,14319,22482,129,2024-01-01
+329,Dodge,Estados Unidos,Hatchback,Gas,146,13400,Autoplaza Norte,Bogota,7159,15089,149,2026-01-01
+330,Peugot,Francia,Wagon,Diesel,94,15908,Autoplaza Norte,Bogota,12456,19341,149,2025-01-01
+331,Peugot,Francia,Sedan,Diesel,93,15732,Drivehub Caribe,Cali,11021,18434,132,2026-01-01
+332,Mitsubishi,Japon,Hatchback,Gas,69,6248,Primeauto Andino,Pereira,3901,6818,191,2026-01-01
+333,Mazda,Japon,Sedan,Gas,118,18275,Drivehub Caribe,Barranquilla,13052,20056,159,2026-01-01
+334,Toyota,Japon,Hardtop,Gas,113,11266,Primeauto Andino,Pereira,6471,12705,185,2026-01-01
+335,Nissan,Japon,Hatchback,Gas,70,7673,Motorcenter Sur,Medellin,4874,8764,148,2026-01-01
+336,Toyota,Japon,Hatchback,Gas,110,9760,Velocitymotors,Cali,8108,10039,209,2026-01-01
+337,Volvo,Suecia,Wagon,Gas,115,17054,Velocitymotors,Bucaramanga,9869,19321,157,2026-01-01
+338,Mazda,Japon,Sedan,Diesel,73,18655,Primeauto Andino,Pereira,13559,21863,132,2025-01-01
+339,Honda,Japon,Sedan,Gas,97,12827,Autoplaza Norte,Bogota,8710,13950,160,2026-01-01
+340,Volvo,Suecia,Wagon,Gas,112,12425,Autoplaza Norte,Bogota,7101,15997,173,2025-01-01
+341,Renault,Francia,Hatchback,Gas,109,10161,Drivehub Caribe,Cali,6145,11578,129,2025-01-01
+342,Mazda,Japon,Hatchback,Gas,81,11048,Carworld Pacifico,Cali,7484,11478,180,2026-01-01
+343,Porsche,Alemania,Hardtop,Gas,192,34796,Drivehub Caribe,Barranquilla,20392,38917,64,2023-01-01
+344,Nissan,Japon,Hatchback,Gas,150,17833,Autoplaza Norte,Bogota,11853,20682,133,2025-01-01
+345,Volkswagen,Alemania,Sedan,Gas,85,8695,Drivehub Caribe,Barranquilla,5059,9787,132,2026-01-01
+346,Mazda,Japon,Sedan,Gas,68,7618,Motorcenter Sur,Medellin,4740,8655,187,2026-01-01
+347,Volvo,Suecia,Sedan,Diesel,106,23696,Primeauto Andiino,Pereira,17889,24603,115,2024-01-01
+348,Volkswagen,Alemania,Sedan,Diesel,71,13420,Drivehub Caribe,Barranquilla,8884,14937,126,2024-01-01
+349,Honda,Japon,Hatchback,Gas,78,7832,Primeauto Andino,Pereira,5320,8709,155,2026-01-01
+350,Honda,Japon,Hatchback,Gas,77,7315,Carworld Pacifico,Cali,4099,7272,179,2026-01-01
+351,Peugot,Francia,Wagon,Diesel,100,13888,Drivehub Caribe,Barranquilla,10617,17673,125,2026-01-01
+352,Bmw,Alemania,Sedan,Gas,97,15787,Velocitymotors,Bucaramanga,12662,17783,163,2023-01-01
+353,Mazda,Japon,Sedan,Diesel,63,10952,Carworld Pacifico,Cali,7515,12193,143,2025-01-01
+354,Nissan,Japon,Sedan,Diesel,54,7243,Primeauto Andino,Pereira,8693,7889,131,2025-01-01
+355,Volvo,Suecia,Sedan,Gas,157,18477,Autoplaza Norte,Bogota,8513,22080,101,2026-01-01
+356,Volvo,Suecia,Sedan,Diesel,105,22643,Primeauto Andiino,Pereira,17085,24900,98,2024-01-01
+357,Honda,Japon,Hatchback,Gas,80,6793,Drivehub Caribe,Barranquilla,4762,7443,174,2026-01-01
+358,Volkswagen,Alemania,Sedan,Gas,90,8388,Autoplaza Norte,Bogota,4667,8848,218,2026-01-01
+359,Chevrolet,Estados Unidos,Hatchback,Gas,69,6097,Motor Center Sur,Medellin,4219,7385,201,2024-01-01
+360,Toyota,Japon,Wagon,Gas,66,7736,Velocitymotors,Bucaramanga,5860,7956,178,2023-01-01
+361,Toyota,Japon,Sedan,Gas,104,8951,Carworld Pacifco,Cali,6438,10625,163,2025-01-01
+362,Volkswagen,Alemania,Sedan,Gas,90,8220,Autoplaza Norte,Bogota,4570,9041,179,2026-01-01
+363,Jaguar,Reino Unido,Sedan,Gas,175,30560,Velocitymotors,Bucaramanga,19575,40881,65,2024-01-01
+364,Volkswagen,Alemania,Sedan,Gas,85,7609,Autoplaza Norte,Bogota,4375,8975,203,2026-01-01
+365,Dodge,Estados Unidos,Hatchback,Gas,69,5785,Motorcenter Sur,Medellin,3865,6117,218,2026-01-01
+366,Peugot,Francia,Sedan,Gas,108,11914,Autoplaza Norte,Bogota,7067,13990,164,2026-01-01
+367,Nissan,Japon,Wagon,Gas,71,7686,Carworld Pacifico,Cali,5313,10344,207,2026-01-01
+368,Mazda,Japon,Sedan,Diesel,70,18097,Primeauto Andino,Pereira,13575,21360,119,2025-01-01
+369,Audi,Alemania,Sedan,Gas,119,17854,Velocitymotor,Bucaramanga,12439,18984,81,2026-01-01
+370,Toyota,Japon,Hatchback,Diesel,55,7613,Velocitymotors,Bucaramanga,4730,9118,167,2025-01-01
+371,Mercedes-Benz,Alemania,Sedan,Diesel,121,31856,Carworld Pacifico,Cali,22104,32780,76,2025-01-01
+372,Saab,Suecia,Hatchback,Gas,165,17960,Primeauto Andino,Pereira,11589,20691,187,2025-01-01
+373,Mitsubishi,Japon,Sedan,Gas,88,7153,Carworld Pacifico,Cali,4893,8059,158,2025-01-01
+374,Mitsubishi,Japon,Hatchback,Gas,69,6780,Velocitymotors,Bucaramanga,4850,7520,168,2026-01-01
+375,Volkswagen,Alemania,Sedan,Diesel,52,7587,Primeauto Andino,Cali,5642,8477,192,2024-01-01
+376,Chevrolet,Estados Unidos,Hatchback,Gas,71,6258,Motor Center Sur,Medellin,4199,7130,172,2024-01-01
+377,Toyota,Japon,Hatchback,Gas,63,6725,Carworld Pacifico,Cali,4012,7706,181,2026-01-01
+378,Toyota,Japon,Wagon,Gas,58,8007,Velocitymotors,Bucaramanga,5825,8242,168,2023-01-01
+379,Mitsubishi,Japon,Hatchback,Gas,104,7313,Motorcenter Sur,Medellin,4359,8283,184,2026-01-01
+380,Mazda,Japon,Hatchback,Gas,98,11196,Motorcenter Sur,Medellin,7779,12153,138,2024-01-01
+381,Alfa-Romero,Italia,Convertible,Gas,98,15874,Velocitymotors,Bucaramanga,9495,19694,127,2026-01-01
+382,Volkswagen,Alemania,Sedan,Diesel,68,14529,Drivehub Caribe,Barranquilla,9175,14201,120,2024-01-01
+383,Volvo,Suecia,Sedan,Gas,114,13404,Drivehub Caribe,Barranquilla,9970,14523,184,2026-01-01
+384,Mazda,Japon,Hatchback,Gas,66,6157,Autoplaza Norte,Bogota,3430,6487,153,2025-01-01
+385,Audi,Alemania,Sedan,Gas,113,17807,Drivehub Caribe,Barranquilla,9813,18007,130,2026-01-01
+386,Dodge,Estados Unidos,Sedan,Gas,65,6643,Primeauto Andino,Pereira,5086,7956,164,2026-01-01
+387,Bmw,Alemania,Sedan,Gas,119,25148,Velocitymotors,Bucaramanga,17517,29399,105,2026-01-01
+388,Toyota,Japon,Hatchback,Gas,114,11399,Carworld Pacifico,Cali,6674,12493,176,2026-01-01
+389,Volkswagen,Alemania,Sedan,Gas,85,8041,Autoplaza Norte,Bogota,4569,9124,206,2026-01-01
+390,Honda,Japon,Hatchback,Gas,77,7064,Drivehub Caribe,Barranquilla,4419,7484,171,2026-01-01
+391,Toyota,Japon,Wagon,Gas,60,7743,Velocitymotors,Bucaramanga,5755,8061,178,2023-01-01
+392,Honda,Japon,Hatchback,Gas,88,7725,Primeauto Andino,Pereira,4709,8910,163,2026-01-01
+393,Mitsubishi,Japon,Hatchback,Gas,68,5164,Carworld Pacifico,Cali,3256,5943,173,2023-01-01
+394,Plymouth,Estados Unidos,Wagon,Gas,82,8589,Motorcenter Sur,Medellin,6593,9895,154,2026-01-01
+395,Subaru,Japon,Wagon,Gas,76,7500,Drivehub Caribe,Barranquilla,4102,9746,178,2025-01-01
+396,Toyota,Japon,Hatchback,Gas,161,16407,Motorcenter Sur,Medellin,8955,17410,161,2026-01-01
+397,Bmw,Alemania,Sedan,Gas,100,17470,Velocitymotors,Bucaramanga,12016,18094,186,2023-01-01
+398,Honda,Japon,Sedan,Gas,86,10809,Carworld Pacifico,Cali,6292,10819,156,2024-01-01
+399,Mazda,Japon,Hatchback,Gas,84,8342,Motorcenter Sur,Medellin,5271,10546,166,2025-01-01
+400,Mazda,Japon,Sedan,Gas,121,18744,Drivehub Caribe,Barranquilla,13442,19884,153,2026-01-01
+401,Volvo,Suecia,Sedan,Gas,118,23751,Autoplaza Norte,Bogota,13651,25656,130,2026-01-01
+402,Toyota,Japon,Sedan,Gas,67,7614,Drivehub Caribe,Barranquilla,5221,8673,173,2025-01-01
+403,Mercedes-Benz,Alemania,Sedan,Diesel,118,25643,Autoplaza Norte,Bogota,19587,29976,76,2026-01-01
+404,Volvo,Suecia,Wagon,Gas,156,17618,Drivehub Caribe,Barranquilla,11717,20991,119,2026-01-01
+405,Nissan,Japon,Sedan,Gas,154,13625,Velocitymotors,Bucaramanga,9600,14499,150,2025-01-01
+406,Nissan,Japon,Sedan,Gas,159,12997,Velocitymotors,Bucaramanga,9669,13974,157,2025-01-01
+407,Nissan,Japon,Sedan,Diesel,54,7149,Primeauto Andino,Pereira,8588,7404,170,2025-01-01
+408,Dodge,Estados Unidos,Hatchback,Gas,132,12256,Autoplaza Norte,Bogota,7416,14743,148,2026-01-01
+409,Volkswagen,Alemania,Sedan,Gas,103,13548,Autoplaza Norte,Bogota,8585,13676,174,2024-01-01
+410,Alfa-Romero,Italia,Hatchback,Gas,150,17092,Drivehub Caribe,Barranquilla,9629,18500,146,2026-01-01
+411,Honda,Japon,Wagon,Gas,75,7095,Primeauto Andiino,Cali,5270,7631,141,2026-01-01
+412,Jaguar,Reino Unido,Sedan,Gas,258,34567,Motorcenter Sur,Medellin,24728,36777,53,2025-01-01
+413,Mazda,Japon,Hatchback,Gas,84,8178,Motorcenter Sur,Medellin,5078,10052,170,2025-01-01
+414,Dodge,Estados Unidos,Sedan,Gas,101,8478,Carworld Pacifico,Cali,5963,10004,188,2025-01-01
+415,Audi,Alemania,Sedan,Gas,106,13666,Velocitymotors,Bucaramanga,8007,14512,146,2026-01-01
+416,Subaru,Japon,Hatchback,Gas,71,7190,Motorcenter Sur,Medellin,8838,8605,192,2026-01-01
+417,Volvo,Suecia,Sedan,Gas,157,18712,Autoplaza Norte,Bogota,8569,23234,118,2026-01-01
+418,Dodge,Estados Unidos,Sedan,Gas,69,6587,Primeauto Andino,Pereira,4846,7666,181,2026-01-01
+419,Mazda,Japon,Sedan,Gas,79,9859,Car World Pacifico,Cali,7579,11935,148,2025-01-01
+420,Nissan,Japon,Hatchback,Gas,162,16865,Autoplaza Norte,Bogota,9421,19819,92,2024-01-01
+421,Volkswagen,Alemania,Hatchback,Gas,90,10354,Velocitymotors,Bucaramanga,8125,10819,218,2025-01-01
+422,Subaru,Japon,Sedan,Gas,94,10170,Autoplaza Norte,Bogota,6075,10884,164,2026-01-01
+423,Toyota,Japon,Sedan,Diesel,59,7862,Carworld Pacifico,Cali,4322,8425,208,2024-01-01
+424,Plymouth,Estados Unidos,Hatchback,Gas,100,8129,Autoplaza Norte,Bogota,5075,8370,217,2026-01-01
+425,Mitsubishi,Japon,Sedan,Gas,94,7856,Primeauto Andino,Pereira,8558,9486,174,2026-01-01
+426,Honda,Japon,Sedan,Gas,100,12960,Autoplaza Norte,Bogota,8798,13311,191,2026-01-01
+427,Toyota,Japon,Hatchback,Gas,88,11306,Primeauto Andino,Pereira,7866,11512,174,2026-01-01
+428,Toyota,Japon,Sedan,Gas,112,9145,Motorcenter Sur,Medellin,5714,10016,178,2026-01-01
+429,Audi,Alemania,Sedan,Gas,106,15482,Motorcenter Sur,Medellin,10761,16582,137,2025-01-01
+430,Subaru,Japon,Wagon,Gas,92,9919,Velocitymotors,Bucaramanga,7291,11686,164,2026-01-01
+431,Bmw,Alemania,Sedan,Gas,185,37538,Primeauto Andino,Pereira,9110,47672,37,2026-01-01
+432,Toyota,Japon,Hatchback,Gas,63,6613,Carworld Pacifico,Cali,3994,7575,196,2026-01-01
+433,Toyota,Japon,Hardtop,Gas,113,10056,Primeauto Andino,Pereira,5963,11650,166,2026-01-01
+434,Dodge,Estados Unidos,Sedan,Gas,106,8915,Carworld Pacifico,Cali,6180,9023,218,2025-01-01
+435,Nissan,Japon,Sedan,Diesel,57,6342,Primeauto Andino,Pereira,9127,7449,152,2025-01-01
+436,Dodge,Estados Unidos,Sedan,Gas,71,6548,Primeauto Andino,Pereira,5273,7754,153,2026-01-01
+437,Peugot,Francia,Sedan,Gas,145,18801,Motorcenter Sur,Medellin,11360,19285,125,2024-01-01
+438,Volkswagen,Alemania,Hatchback,Gas,94,9869,Velocitymotors,Bucaramanga,8240,10656,218,2025-01-01
+439,Bmw,Alemania,Sedan,Gas,170,34987,Primeauto Andino,Pereira,8818,44554,39,2026-01-01
+440,Mitsubishi,Japon,Hatchback,Gas,143,12146,Motorcenter Sur,Medellin,7211,14471,126,2026-01-01
+441,Volvo,Suecia,Wagon,Gas,157,19631,Drivehub Caribe,Barranquilla,11810,21322,123,2026-01-01
+442,Mazda,Japon,Sedan,Diesel,64,10069,Carworld Pacifico,Cali,7439,12050,155,2025-01-01
+443,Dodge,Estados Unidos,Sedan,Gas,100,8896,Carworld Pacifico,Cali,5966,10017,181,2025-01-01
+444,Nissan,Japon,Sedan,Gas,151,13473,Autoplaza Norte,Bogota,8564,14984,138,2026-01-01
+445,Nissan,Japon,Hatchback,Gas,213,18877,Autoplaza Norte,Bogota,15217,22038,146,2023-01-01
+446,Saab,Suecia,Sedan,Gas,159,18240,Drivehub Caribe,Barranquilla,12135,21688,129,2025-01-01
+447,Mazda,Japon,Sedan,Diesel,73,17691,Primeauto Andino,Pereira,13339,19699,129,2025-01-01
+448,Volvo,Suecia,Sedan,Gas,113,16470,Primeauto Andino,Pereira,10100,17158,168,2025-01-01
+449,Peugot,Francia,Sedan,Gas,97,12205,Autoplaza Norte,Bogota,7131,13665,166,2026-01-01
+450,Mazda,Japon,Sedan,Gas,84,7984,Carworld Pacifico,Cali,5012,9280,178,2026-01-01
+451,Volvo,Suecia,Wagon,Gas,116,16282,Velocitymotors,Bucaramanga,9899,19705,147,2026-01-01
+452,Volkswagen,Alemania,Convertible,Gas,94,11245,Carworld Pacifico,Cali,8897,13327,165,2026-01-01
+453,Nissan,Japon,Sedan,Gas,161,14110,Velocitymotors,Bucaramanga,9850,15028,161,2025-01-01
+454,Audi,Alemania,Sedan,Gas,116,16625,Velocitymotor,Bucaramanga,11710,19810,78,2026-01-01
+455,Plymouth,Estados Unidos,Sedan,Gas,69,8036,Carworld Pacifico,Cali,7726,8705,172,2026-01-01
+456,Peugot,Francia,Wagon,Diesel,91,17055,Autoplaza Norte,Bogota,11951,19967,151,2025-01-01
+457,Honda,Japon,Hatchback,Gas,58,6216,Drivehub Caribee,Barranquilla,8970,7119,178,2026-01-01
+458,Renault,Francia,Hatchback,Gas,107,9660,Drivehub Caribe,Cali,5996,11125,144,2025-01-01
+459,Toyota,Japon,Convertible,Gas,120,17173,Carworld Pacifico,Cali,12799,19726,115,2026-01-01
+460,Dodge,Estados Unidos,Hatchback,Gas,69,6093,Autoplaza Norte,Bogota,4035,7374,181,2026-01-01
+461,Subaru,Japon,Wagon,Gas,114,11733,Autoplaza Nrote,Bogota,8131,13357,161,2026-01-01
+462,Dodge,Estados Unidos,Hatchback,Gas,147,12407,Autoplaza Norte,Bogota,7527,14443,147,2026-01-01
+463,Toyota,Japon,Wagon,Gas,65,7295,Velocitymotors,Bucaramanga,5834,8567,164,2023-01-01
+464,Mitsubishi,Japon,Sedan,Gas,117,9156,Primeauto Andino,Pereira,6082,11517,143,2024-01-01
+465,Alfa-Romero,Italia,Convertible,Gas,102,15459,Velocitymotors,Bucaramanga,9363,19180,139,2026-01-01
+466,Volvo,Suecia,Sedan,Gas,164,17935,Autoplaza Norte,Bogota,9024,22865,119,2026-01-01
+467,Honda,Japon,Hatchback,Gas,68,6902,Carworld Pacifico,Cali,4298,7008,206,2026-01-01
+468,Plymouth,Estados Unidos,Sedan,Gas,69,7377,Carworld Pacifico,Cali,8762,8625,182,2026-01-01
+469,Honda,Japon,Hatchback,Gas,75,8448,Primeauto Andino,Pereira,5093,9053,195,2026-01-01
+470,Volkswagen,Alemania,Sedan,Gas,103,13321,Autoplaza Norte,Bogota,8330,13676,173,2024-01-01
+471,Toyota,Japon,Hatchback,Gas,63,6544,Carworld Pacifico,Cali,4100,8346,178,2026-01-01
+472,Toyota,Japon,Sedan,Gas,114,8720,Motorcenter Sur,Medellin,5903,10371,185,2026-01-01
+473,Nissan,Japon,Sedan,Gas,66,5373,Autoplaza Norte,Bogota,3396,6501,155,2026-01-01
+474,Nissan,Japon,Sedan,Gas,67,7556,Autoplaza Nrote,Bogota,4303,8823,218,2026-01-01
+475,Renault,Francia,Hatchback,Gas,109,9540,Drivehub Caribe,Cali,5864,10321,158,2025-01-01
+476,Toyota,Japon,Hatchback,Gas,69,8624,Drivehub Caribe,Barranquilla,5239,8822,189,2026-01-01
+477,Toyota,Japon,Sedan,Diesel,79,10248,Carworld Pacifico,Cali,5996,12311,136,2026-01-01
+478,Audi,Alemania,Sedan,Gas,102,13810,Velocitymotors,Bucaramanga,8415,15034,154,2026-01-01
+479,Saab,Suecia,Sedan,Gas,162,18238,Drivehub Caribe,Barranquilla,12610,20492,109,2025-01-01
+480,Dodge,Estados Unidos,Hatchback,Gas,72,6414,Autoplaza Norte,Bogota,3647,7681,167,2026-01-01
+481,Mazda,Japon,Sedan,Gas,84,8305,Carworld Pacifico,Cali,5141,10088,177,2026-01-01
+482,Toyota,Japon,Hardtop,Gas,112,11093,Primeauto Andino,Pereira,6538,12435,186,2026-01-01
+483,Mazda,Japon,Sedan,Gas,103,6640,Primeauto Andino,Pereira,4261,7480,167,2026-01-01
+484,Toyota,Japon,Hatchback,Gas,70,8026,Motorcenter Sur,Medellin,6127,8896,141,2026-01-01
+485,Nissan,Japon,Sedan,Gas,66,7626,Autoplaza Nrote,Bogota,4389,8567,204,2026-01-01
+486,Jaguar,Reino Unido,Sedan,Gas,260,36300,Motorcenter Sur,Medellin,26034,38662,56,2025-01-01
+487,Mercedes-Benz,Alemania,Sedan,Diesel,120,31502,Carworld Pacifico,Cali,20548,32424,70,2025-01-01
+488,Peugot,Francia,Wagon,Gas,100,12253,Drivehub Caribe,Barranquilla,9321,13212,165,2023-01-01
+489,Toyota,Japon,Hatchback,Gas,70,7399,Velocitymotors,Bucaramanga,4314,7633,198,2026-01-01
+490,Plymouth,Estados Unidos,Hatchback,Gas,144,12659,Autoplaza Norte,Bogota,7459,14057,153,2024-01-01
+491,Volkswagen,Alemania,Sedan,Gas,110,13152,Autoplaza Norte,Bogota,8670,14141,141,2024-01-01
+492,Toyota,Japon,Hatchback,Gas,104,16619,Drivehub Caribe,Barranquilla,9927,19724,160,2026-01-01
+493,Toyota,Japon,Wagon,Gas,63,9299,Velocitymotors,Bucaramanga,6172,10316,142,2024-01-01
+494,Plymouth,Estados Unidos,Hatchback,Gas,140,12165,Autoplaza Norte,Bogota,7230,14523,149,2024-01-01
+495,Mazda,Japon,Hatchback,Gas,81,10880,Carworld Pacifico,Cali,7392,11623,153,2026-01-01
+496,Mitsubishi,Japon,Sedan,Gas,91,6526,Carworld Pacifico,Cali,4719,8247,186,2025-01-01
+497,Dodge,Estados Unidos,Hatchback,Gas,67,6276,Motorcenter Sur,Medellin,3994,6602,218,2026-01-01
+498,Mitsubishi,Japon,Hatchback,Gas,65,7037,Velocitymotors,Bucaramanga,4887,7691,186,2026-01-01
+499,Volkswagen,Alemania,Hatchback,Gas,91,10151,Velocitymotors,Bucaramanga,9233,10861,206,2025-01-01
+500,Mitsubishi,Japon,Sedan,Gas,118,9334,Carworld Pacifico,Cali,6029,11226,179,2024-01-01
+501,Dodge,Estados Unidos,Hatchback,Gas,98,7801,Carworld Pacifico,Cali,5960,8958,148,2024-01-01
+502,Saab,Suecia,Sedan,Gas,111,15527,Velocitymotors,Bucaramanga,10175,17925,107,2026-01-01
+503,Volvo,Suecia,Wagon,Gas,117,16369,Velocitymotors,Bucaramanga,9694,18279,183,2026-01-01
+504,Toyota,Japon,Hatchback,Gas,105,16103,Drivehub Caribe,Barranquilla,9478,19011,131,2026-01-01
+505,Mazda,Japon,Hatchback,Gas,138,15486,Velocitymotors,Cali,11189,17403,182,2026-01-01
+506,Nissan,Japon,Sedan,Gas,66,7350,Velocitymotors,Bucaramanga,5376,8381,173,2025-01-01
+507,Peugot,Francia,Wagon,Gas,98,12106,Drivehub Caribe,Barranquilla,9185,13712,174,2023-01-01
+508,Mazda,Japon,Hatchback,Gas,67,6603,Carworld Pacifico,Cali,5111,7883,182,2025-01-01
+509,Mazda,Japon,Hatchback,Gas,99,12995,Motorcenter Sur,Medellin,9465,14367,190,2024-01-01
+510,Mazda,Japon,Hatchback,Gas,70,5266,Carworld Pacifico,Cali,3164,6271,165,2026-01-01
+511,Volvo,Suecia,Sedan,Diesel,111,22899,Primeauto Andiino,Pereira,17715,23523,116,2024-01-01
+512,Toyota,Japon,Wagon,Gas,66,6974,Primeauto Andino,Cali,4011,8171,153,2026-01-01
+513,Toyota,Japon,Sedan,Gas,108,9250,Carworld Pacifco,Cali,6719,10400,167,2025-01-01
+514,Toyota,Japon,Hardtop,Gas,116,9669,Autoplaza Norte,Bogota,5990,10941,140,2024-01-01
+515,Volvo,Suecia,Sedan,Gas,115,16204,Primeauto Andino,Pereira,10317,17636,163,2025-01-01
+516,Dodge,Estados Unidos,Hatchback,Gas,70,6445,Autoplaza Norte,Bogota,3654,7604,171,2026-01-01
+517,Toyota,Japon,Wagon,Gas,157,15700,Autoplaza Norte,Bogota,10829,17358,144,2025-01-01
+518,Bmw,Alemania,Sedan,Gas,122,24109,Velocitymotors,Bucaramanga,17104,27149,108,2026-01-01
+519,Nissan,Japon,Hardtop,Gas,71,8888,Carworld Pacifico,Cali,5575,9274,189,2025-01-01
+520,Plymouth,Estados Unidos,Sedan,Gas,68,7489,Carworld Pacifico,Cali,8919,8719,178,2026-01-01
+521,Mercedes-Benz,Alemania,Hardtop,Gas,179,44342,Primeauto Andino,Pereira,28211,50087,1,2023-01-01
+522,Honda,Japon,Hatchback,Gas,57,6577,Drivehub Caribee,Barranquilla,9133,7071,195,2026-01-01
+523,Honda,Japon,Sedan,Gas,88,8923,Carworld Pacifico,Cali,6175,10991,214,2025-01-01
+524,Toyota,Japon,Hatchback,Gas,104,9498,Velocitymotor,Bucaramanga,6827,11962,192,2023-01-01
+525,Mercedes-Benz,Alemania,Sedan,Diesel,124,26556,Autoplaza Norte,Bogota,18530,28424,68,2026-01-01
+526,Mazda,Japon,Sedan,Gas,123,18220,Drivehub Caribe,Barranquilla,12381,20005,139,2026-01-01
+527,Volkswagen,Alemania,Convertible,Gas,89,11144,Carworld Pacifico,Cali,8862,13381,150,2026-01-01
+528,Dodge,Estados Unidos,Hatchback,Gas,149,13503,Autoplaza Norte,Bogota,7450,14443,140,2026-01-01
+529,Volkswagen,Alemania,Sedan,Gas,105,9703,Primeauto Andino,Pereira,5541,10959,184,2026-01-01
+530,Volkswagen,Alemania,Convertible,Gas,86,11082,Carworld Pacifico,Cali,9251,13332,154,2026-01-01
+531,Plymouth,Estados Unidos,Wagon,Gas,92,9476,Motorcenter Sur,Medellin,6485,10452,151,2026-01-01
+532,Honda,Japon,Hatchback,Gas,75,7293,Carworld Pacifico,Cali,4173,7708,177,2026-01-01
+533,Honda,Japon,Hatchback,Gas,57,5397,Motorcenter Sur,Medellin,3912,6195,218,2025-01-01
+534,Mazda,Japon,Sedan,Gas,81,8968,Carworld Pacifico,Cali,5324,9694,174,2026-01-01
+535,Plymouth,Estados Unidos,Hatchback,Gas,98,8001,Autoplaza Norte,Bogota,5047,8838,180,2026-01-01
+536,Honda,Japon,Hatchback,Gas,76,6848,Drivehub Caribe,Barranquilla,4620,7874,175,2026-01-01
+537,Nissan,Japon,Sedan,Gas,68,7130,Velocitymotors,Bucaramanga,5534,9019,161,2025-01-01
+538,Dodge,Estados Unidos,Hatchback,Gas,67,6356,Motorcenter Sur,Medellin,4065,6586,195,2026-01-01
+539,Peugot,Francia,Sedan,Gas,97,15840,Autoplaza Norte,Bogota,8913,17745,180,2026-01-01
+540,Audi,Alemania,Sedan,Gas,116,17459,Velocitymotor,Bucaramanga,11512,19673,76,2026-01-01
+541,Subaru,Japon,Wagon,Gas,83,7257,Carworld Pacifico,Cali,4400,8181,206,2026-01-01
+542,Bmw,Alemania,Sedan,Gas,123,21065,Drive Hub Caribe,Barranquilla,11836,23770,103,2026-01-01
+543,Honda,Japon,Sedan,Gas,88,10270,Carworld Pacifico,Cali,6308,10724,137,2024-01-01
+544,Honda,Japon,Wagon,Gas,70,6955,Primeauto Andiino,Cali,5162,7779,155,2026-01-01
+545,Toyota,Japon,Hatchback,Gas,115,10954,Carworld Pacifico,Cali,6662,11940,119,2026-01-01
+546,Bmw,Alemania,Sedan,Gas,93,17260,Carworld Pacifico,Cali,10976,17409,160,2023-01-01
+547,Nissan,Japon,Sedan,Gas,69,5118,Autoplaza Norte,Bogota,3547,6742,179,2026-01-01
+548,Plymouth,Estados Unidos,Sedan,Gas,68,6740,Autoplaza Norte,Bogota,4085,7389,218,2026-01-01
+549,Nissan,Japon,Hatchback,Gas,166,18091,Autoplaza Norte,Bogota,11962,21067,106,2025-01-01
+550,Subaru,Japon,Hatchback,Gas,76,7951,Motorcenter Sur,Medellin,8515,8651,200,2026-01-01
+551,Toyota,Japon,Sedan,Gas,113,9137,Motorcenter Sur,Medellin,6083,10227,198,2026-01-01
+552,Mitsubishi,Japon,Hatchback,Gas,142,12921,Motorcenter Sur,Medellin,7080,14603,143,2026-01-01
+553,Toyota,Japon,Hardtop,Gas,118,11043,Primeauto Andino,Pereira,6550,12468,181,2026-01-01
+554,Mazda,Japon,Sedan,Diesel,71,18417,Primeauto Andino,Pereira,13716,20205,136,2025-01-01
+555,Volvo,Suecia,Sedan,Gas,160,19536,Carworld Pacifico,Cali,11018,22285,101,2026-01-01
+556,Nissan,Japon,Hatchback,Gas,166,16921,Autoplaza Norte,Bogota,9656,20875,116,2024-01-01
+557,Toyota,Japon,Hatchback,Gas,61,6559,Velocity Motors,Bucaramanga,4323,7351,178,2026-01-01
+558,Toyota,Japon,Hatchback,Gas,166,15442,Motorcenter Sur,Medellin,9115,17682,130,2026-01-01
+559,Toyota,Japon,Sedan,Gas,72,8141,Carworld Pacifico,Cali,4858,8842,181,2025-01-01
+560,Toyota,Japon,Hatchback,Gas,89,10311,Carworld Pacifico,Cali,6567,11395,183,2026-01-01
+561,Peugot,Francia,Wagon,Diesel,98,14180,Drivehub Caribe,Barranquilla,10222,16353,138,2026-01-01
+562,Audi,Alemania,Sedan,Gas,143,25476,Drivehub Caribe,Barranquilla,13956,28213,93,2026-01-01
+563,Nissan,Japon,Wagon,Gas,153,14014,Velocitymotors,Bucaramanga,9402,16184,133,2023-01-01
+564,Honda,Japon,Hatchback,Gas,84,7514,Primeauto Andino,Pereira,4927,8761,152,2026-01-01
+565,Volkswagen,Alemania,Sedan,Diesel,50,7504,Primeauto Andino,Cali,5277,9024,194,2024-01-01
+566,Mazda,Japon,Hatchback,Gas,67,5315,Carworld Pacifico,Cali,3148,6173,202,2026-01-01
+567,Jaguar,Reino Unido,Sedan,Gas,179,36170,Autoplaza Norte,Bogota,23830,36792,52,2026-01-01
+568,Mazda,Japon,Sedan,Gas,100,6719,Primeauto Andino,Pereira,4510,7554,174,2026-01-01
+569,Saab,Suecia,Sedan,Gas,112,11692,Autoplaza Norte,Bogota,7376,13772,202,2026-01-01
+570,Peugot,Francia,Sedan,Gas,136,18637,Motorcenter Sur,Medellin,11048,20349,130,2024-01-01
+571,Volvo,Suecia,Sedan,Gas,113,12385,Drivehub Caribe,Barranquilla,8712,13685,179,2026-01-01
+572,Mitsubishi,Japon,Sedan,Gas,88,8521,Primeauto Andino,Pereira,8275,8860,172,2026-01-01
+573,Mazda,Japon,Hatchback,Gas,91,9730,Motorcenter Sur,Medellin,5185,10240,171,2025-01-01
+574,Bmw,Alemania,Sedan,Gas,96,16641,Velocitymotors,Bucaramanga,12053,18252,178,2023-01-01
+575,Alfa-Romero,Italia,Convertible,Gas,109,16837,Velocitymotors,Bucaramanga,8919,19467,121,2026-01-01
+576,Mitsubishi,Japon,Hatchback,Gas,68,6554,Velocitymotors,Bucaramanga,4917,7723,167,2026-01-01
+577,Volkswagen,Alemania,Hatchback,Gas,91,9348,Velocitymotors,Bucaramanga,8403,10838,211,2025-01-01
+578,Peugot,Francia,Sedan,Diesel,95,12922,Carworld Pacifico,Cali,9366,15925,116,2026-01-01
+579,Volkswagen,Alemania,Sedan,Gas,86,7670,Autoplaza Norte,Bogota,4429,8917,205,2026-01-01
+580,Dodge,Estados Unidos,Hatchback,Gas,68,5290,Velocitymotors,Bucaramanga,3620,6576,174,2024-01-01
+581,Chevrolet,Estados Unidos,Hatchback,Gas,74,6674,Motor Center Sur,Medellin,4237,7706,208,2024-01-01
+582,Toyota,Japon,Hatchback,Gas,114,11659,Carworld Pacifico,Cali,7235,12075,138,2026-01-01
+583,Dodge,Estados Unidos,Hatchback,Gas,71,6462,Autoplaza Norte,Bogota,3839,7182,173,2026-01-01
+584,Bmw,Alemania,Sedan,Gas,99,16742,Carworld Pacifico,Cali,10591,17923,158,2023-01-01
+585,Mitsubishi,Japon,Hatchback,Gas,145,14401,Primeauto Andino,Pereira,10126,17521,140,2026-01-01
+586,Volkswagen,Alemania,Convertible,Gas,87,11986,Carworld Pacifico,Cali,8622,12785,120,2026-01-01
+587,Subaru,Japon,Sedan,Gas,83,7766,Drivehub Caribe,Barranquilla,5333,8437,202,2026-01-01
+588,Chevrolet,Estados Unidos,Sedan,Gas,74,6697,Carworld Pacifico,Cali,3994,7506,201,2024-01-01
+589,Toyota,Japon,Convertible,Gas,116,17548,Carworld Pacifico,Cali,12755,17300,136,2026-01-01
+590,Toyota,Japon,Sedan,Gas,103,8841,Carworld Pacifco,Cali,6386,10576,170,2025-01-01
+591,Toyota,Japon,Hatchback,Gas,67,7832,Motorcenter Sur,Medellin,6166,8922,148,2026-01-01
+592,Volkswagen,Alemania,Sedan,Gas,84,7628,Auto Plaza Norte,Bogota,4944,9017,208,2026-01-01
+593,Mazda,Japon,Hatchback,Gas,64,6039,Autoplaza Norte,Bogota,3662,7243,160,2025-01-01
+594,Volvo,Suecia,Sedan,Gas,110,16878,Motorcenter Sur,Medellin,9999,18691,120,2026-01-01
+595,Mercedes-Benz,Alemania,Sedan,Diesel,124,24402,Autoplaza Norte,Bogota,18270,27904,78,2026-01-01
+596,Toyota,Japon,Sedan,Gas,117,9287,Motorcenter Sur,Medellin,5962,9445,192,2026-01-01
+597,Plymouth,Estados Unidos,Hatchback,Gas,112,7972,Autoplaza Norte,Bogota,4838,8724,187,2026-01-01
+598,Toyota,Japon,Sedan,Gas,69,7154,Drivehub Caribe,Barranquilla,4863,8457,194,2025-01-01
+599,Renault,Francia,Wagon,Gas,109,8997,Primeauto Andino,Pereira,5869,10134,151,2026-01-01
+600,Saab,Suecia,Sedan,Gas,111,12343,Autoplaza Norte,Bogota,6911,14276,172,2026-01-01
+601,Porsche,Alemania,Hardtop,Gas,206,32969,Velocitymotors,Bucaramanga,21393,38924,57,2026-01-01
+602,Toyota,Japon,Sedan,Gas,71,7426,Drivehub Caribe,Barranquilla,5128,8599,183,2025-01-01
+603,Toyota,Japon,Hatchback,Gas,62,6524,Carworld Pacifico,Cali,3921,7603,188,2026-01-01
+604,Dodge,Estados Unidos,Wagon,Gas,88,9240,Autoplaza Norte,Bogota,6227,10841,184,2023-01-01
+605,Toyota,Japon,Hardtop,Gas,114,11504,Primeauto Andino,Pereira,6636,12206,201,2026-01-01
+606,Peugot,Francia,Wagon,Diesel,90,13814,Drivehub Caribe,Barranquilla,9848,15969,136,2026-01-01
+607,Mercedes-Benz,Alemania,Sedan,Diesel,116,25133,Autoplaza Norte,Bogota,18238,27007,73,2026-01-01
+608,Nissan,Japon,Hatchback,Gas,164,17994,Autoplaza Norte,Bogota,11913,20600,111,2025-01-01
+609,Volvo,Suecia,Sedan,Gas,160,18722,Autoplaza Norte,Bogota,8835,22441,124,2026-01-01
+610,Toyota,Japon,Sedan,Gas,90,10972,Primeauto Andino,Cali,7240,13976,172,2025-01-01
+611,Toyota,Japon,Hatchback,Gas,116,11803,Carworld Pacifico,Cali,6504,12384,156,2026-01-01
+612,Nissan,Japon,Sedan,Gas,71,7534,Autoplaza Nrote,Bogota,4802,8579,180,2026-01-01
+613,Toyota,Japon,Hatchback,Gas,70,8598,Drivehub Caribe,Barranquilla,5002,8687,188,2026-01-01
+614,Mitsubishi,Japon,Hatchback,Gas,113,9992,Motorcenter Sur,Medellin,5865,10799,187,2025-01-01
+615,Subaru,Japon,Sedan,Gas,86,7322,Primeauto Andino,Pereira,3771,7942,184,2023-01-01
+616,Saab,Suecia,Hatchback,Gas,116,12211,Drivehub Caribe,Barranquilla,8926,12833,209,2026-01-01
+617,Mazda,Japon,Sedan,Gas,105,6506,Primeauto Andino,Pereira,4273,7819,206,2026-01-01
+618,Mazda,Japon,Hatchback,Gas,107,11095,Autoplaza Norte,Bogota,9422,12857,148,2024-01-01
+619,Bmw,Alemania,Sedan,Gas,126,22245,Primeauto Andino,Pereira,13334,23563,123,2026-01-01
+620,Dodge,Estados Unidos,Hatchback,Gas,151,13080,Autoplaza Norte,Bogota,7254,15173,139,2026-01-01
+621,Nissan,Japon,Sedan,Diesel,56,6673,Primeauto Andino,Pereira,8389,7558,170,2025-01-01
+622,Nissan,Japon,Hatchback,Gas,99,8725,Carworld Pacifico,Cali,6646,9697,163,2026-01-01
+623,Honda,Japon,Hatchback,Gas,77,7322,Carworld Pacifico,Cali,4391,8014,198,2026-01-01
+624,Mitsubishi,Japon,Sedan,Gas,85,8109,Primeauto Andino,Pereira,8524,8630,158,2026-01-01
+625,Plymouth,Estados Unidos,Hatchback,Gas,149,12535,Autoplaza Norte,Bogota,7211,15275,145,2024-01-01
+626,Jaguar,Reino Unido,Sedan,Gas,250,37765,Motorcenter Sur,Medellin,25469,36666,62,2025-01-01
+627,Mercedes-Benz,Alemania,Sedan,Diesel,120,30442,Carworld Pacifico,Cali,21147,35158,75,2025-01-01
+628,Mitsubishi,Japon,Hatchback,Gas,71,5238,Carworld Pacifico,Cali,3329,6525,187,2023-01-01
+629,Nissan,Japon,Hatchback,Gas,165,17326,Autoplaza Norte,Bogota,9336,19403,115,2024-01-01
+630,Mitsubishi,Japon,Hatchback,Gas,72,5463,Carworld Pacifico,Cali,3516,6327,188,2023-01-01
+631,Toyota,Japon,Hatchback,Gas,61,6601,Carworld Pacifico,Cali,4164,7854,187,2026-01-01
+632,Mercedes-Benz,Alemania,Wagon,Diesel,118,29149,Carworld Pacifico,Cali,21103,30607,87,2026-01-01
+633,Nissan,Japon,Sedan,Diesel,55,7148,Primeauto Andino,Pereira,8778,7657,161,2025-01-01
+634,Mitsubishi,Japon,Hatchback,Gas,102,7821,Motorcenter Sur,Medellin,4544,7939,212,2026-01-01
+635,Honda,Japon,Hatchback,Gas,86,7823,Primeauto Andino,Pereira,5021,8873,192,2026-01-01
+636,Subaru,Japon,Sedan,Gas,85,7142,Primeauto Andino,Pereira,3835,8799,200,2023-01-01
+637,Mazda,Japon,Hatchback,Gas,67,5215,Carworld Pacifico,Cali,3078,6421,185,2026-01-01
+638,Mazda,Japon,Sedan,Gas,85,10322,Car World Pacifico,Cali,7157,11510,144,2025-01-01
+639,Toyota,Japon,Sedan,Gas,68,8276,Carworld Pacifico,Cali,4657,8668,209,2025-01-01
+640,Volvo,Suecia,Sedan,Gas,116,13191,Drivehub Caribe,Barranquilla,9111,13423,179,2026-01-01
+641,Subaru,Japon,Hatchback,Gas,69,5126,Autoplaza Norte,Bogota,3097,5766,166,2024-01-01
+642,Volkswagen,Alemania,Sedan,Gas,97,9712,Autoplaza Norte,Bogota,6004,11327,194,2026-01-01
+643,Toyota,Japon,Hatchback,Gas,91,10012,Carworld Pacifico,Cali,6410,11500,182,2026-01-01
+644,Nissan,Japon,Hatchback,Gas,96,8940,Carworld Pacifico,Cali,6524,10229,144,2026-01-01
+645,Toyota,Japon,Sedan,Diesel,55,7951,Carworld Pacifico,Cali,4491,8468,218,2024-01-01
+646,Mercedes-Benz,Alemania,Hardtop,Diesel,131,30352,Motorcenter Sur,Medellin,19238,31933,94,2025-01-01
+647,Nissan,Japon,Hatchback,Gas,69,7656,Motorcenter Sur,Medellin,5039,8898,202,2026-01-01
+648,Peugot,Francia,Wagon,Diesel,94,14065,Drivehub Caribe,Barranquilla,10004,16317,151,2026-01-01
+649,Volvo,Suecia,Wagon,Gas,106,17133,Velocitymotors,Bucaramanga,9731,18541,160,2026-01-01
+650,Toyota,Japon,Sedan,Diesel,71,10735,Carworld Pacifico,Cali,6112,12325,152,2026-01-01
+651,Nissan,Japon,Sedan,Gas,151,14604,Autoplaza Norte,Bogota,8566,14575,156,2026-01-01
+652,Saab,Suecia,Sedan,Gas,107,15305,Velocitymotors,Bucaramanga,10264,18374,124,2026-01-01
+653,Honda,Japon,Sedan,Gas,106,13092,Autoplaza Norte,Bogota,8275,14063,160,2026-01-01
+654,Toyota,Japon,Sedan,Gas,111,9038,Motorcenter Sur,Medellin,5854,10012,178,2026-01-01
+655,Peugot,Francia,Wagon,Diesel,99,16865,Autoplaza Norte,Bogota,12237,18753,144,2025-01-01
+656,Peugot,Francia,Wagon,Diesel,95,13981,Drivehub Caribe,Barranquilla,10720,17236,153,2026-01-01
+657,Toyota,Japon,Sedan,Diesel,56,8132,Carworld Pacifico,Cali,4569,8554,213,2024-01-01
+658,Renault,Francia,Hatchback,Gas,103,10006,Drivehub Caribe,Cali,6195,10707,130,2025-01-01
+659,Bmw,Alemania,Sedan,Gas,182,32116,Motorcenter Sur,Medellin,22563,35833,76,2026-01-01
+660,Mazda,Japon,Sedan,Gas,89,8467,Carworld Pacifico,Cali,5112,9587,167,2026-01-01
+661,Honda,Japon,Wagon,Gas,70,7210,Primeauto Andiino,Cali,5744,8999,123,2026-01-01
+662,Toyota,Japon,Hatchback,Gas,58,6938,Velocity Motors,Bucaramanga,4303,7429,183,2026-01-01
+663,Audi,Alemania,Wagon,Gas,108,19181,Drivehub Caribe,Barranquilla,14308,22259,147,2024-01-01
+664,Honda,Japon,Sedan,Gas,101,12619,Autoplaza Norte,Bogota,8342,14799,156,2026-01-01
+665,Plymouth,Estados Unidos,Wagon,Gas,90,8704,Motorcenter Sur,Medellin,6652,9692,170,2026-01-01
+666,Subaru,Japon,Sedan,Gas,96,9631,Autoplaza Norte,Bogota,6037,11535,185,2026-01-01
+667,Nissan,Japon,Hatchback,Gas,158,17763,Autoplaza Norte,Bogota,9571,20736,103,2024-01-01
+668,Toyota,Japon,Hatchback,Gas,95,11105,Primeauto Andino,Pereira,8349,11901,188,2026-01-01
+669,Volkswagen,Alemania,Sedan,Gas,104,10040,Autoplaza Norte,Bogota,5912,11026,178,2026-01-01
+670,Dodge,Estados Unidos,Sedan,Gas,103,8539,Carworld Pacifico,Cali,6162,9653,218,2025-01-01
+671,Volvo,Suecia,Wagon,Gas,118,13758,Autoplaza Norte,Bogota,7267,16266,179,2025-01-01
+672,Porsche,Alemania,Hardtop,Gas,209,31564,Velocitymotors,Bucaramanga,22583,38283,60,2026-01-01
+673,Renault,Francia,Hatchback,Gas,102,9523,Drivehub Caribe,Cali,6052,10773,151,2025-01-01
+674,Chevrolet,Estados Unidos,Sedan,Gas,72,6627,Carworld Pacifico,Cali,3644,7350,218,2024-01-01
+675,Porsche,Alemania,Hardtop,Gas,208,34744,Drivehub Caribe,Barranquilla,20581,38438,62,2023-01-01
+676,Subaru,Japon,Wagon,Gas,111,11830,Autoplaza Nrote,Bogota,8514,13672,159,2026-01-01
+677,Plymouth,Estados Unidos,Hatchback,Gas,107,7732,Autoplaza Norte,Bogota,5102,9289,193,2026-01-01
+678,Bmw,Alemania,Sedan,Gas,166,37754,Primeauto Andino,Pereira,8109,45565,34,2026-01-01
+679,Peugot,Francia,Sedan,Diesel,90,12856,Carworld Pacifico,Cali,9358,15852,96,2026-01-01
+680,Volkswagen,Alemania,Sedan,Diesel,65,13592,Drivehub Caribe,Barranquilla,9417,14125,114,2024-01-01
+681,Subaru,Japon,Wagon,Gas,110,11308,Autoplaza Nrote,Bogota,7935,12874,148,2026-01-01
+682,Dodge,Estados Unidos,Wagon,Gas,87,9327,Autoplaza Norte,Bogota,6454,10660,196,2023-01-01
+683,Volvo,Suecia,Sedan,Gas,108,16339,Primeauto Andino,Pereira,10852,17214,152,2025-01-01
+684,Volvo,Suecia,Sedan,Gas,110,16323,Primeauto Andino,Pereira,10362,17922,139,2025-01-01
+685,Honda,Japon,Sedan,Gas,74,7613,Prime Auto Andino,Pereira,5110,8425,175,2026-01-01
+686,Toyota,Japon,Hatchback,Gas,76,9049,Motorcenter Sur,Medellin,5933,8614,126,2026-01-01
+687,Mitsubishi,Japon,Hatchback,Gas,154,13622,Primeauto Andino,Pereira,9905,16651,124,2026-01-01
+688,Plymouth,Estados Unidos,Sedan,Gas,67,7412,Carworld Pacifico,Cali,8271,8614,197,2026-01-01
+689,Nissan,Japon,Sedan,Gas,68,6701,Velocitymotors,Bucaramanga,8190,7889,191,2025-01-01
+690,Toyota,Japon,Hatchback,Gas,67,8109,Drivehub Caribe,Barranquilla,5335,9400,199,2026-01-01
+691,Volvo,Suecia,Sedan,Gas,106,21772,Autoplaza Norte,Bogota,13556,24972,126,2026-01-01
+692,Toyota,Japon,Sedan,Gas,70,7973,Carworld Pacifico,Cali,5036,8919,192,2025-01-01
+693,Volkswagen,Alemania,Sedan,Gas,106,12729,Autoplaza Norte,Bogota,8698,13667,147,2024-01-01
+694,Volvo,Suecia,Sedan,Gas,114,13092,Drivehub Caribe,Barranquilla,9251,13218,206,2026-01-01
+695,Chevrolet,Estados Unidos,Hatchback,Gas,66,6306,Motor Center Sur,Medellin,3949,7296,192,2024-01-01
+696,Mazda,Japon,Sedan,Gas,101,6808,Primeauto Andino,Pereira,4506,7710,203,2026-01-01
+697,Subaru,Japon,Wagon,Gas,112,11902,Autoplaza Nrote,Bogota,7834,13660,187,2026-01-01
+698,Plymouth,Estados Unidos,Sedan,Gas,69,6833,Autoplaza Norte,Bogota,4301,6887,181,2026-01-01
+699,Bmw,Alemania,Sedan,Gas,102,16704,Carworld Pacifico,Cali,10842,17320,153,2023-01-01
+700,Chevrolet,Estados Unidos,Sedan,Gas,67,7063,Carworld Pacifico,Cali,3594,7848,202,2024-01-01
+701,Peugot,Francia,Sedan,Gas,100,11998,Autoplaza Norte,Bogota,6832,14075,152,2026-01-01
+702,Porsche,Alemania,Hardtop,Gas,201,30408,Velocitymotors,Bucaramanga,21702,35912,60,2026-01-01
+703,Honda,Japon,Hatchback,Gas,78,6879,Carworld Pacifico,Cali,4319,8148,218,2026-01-01
+704,Honda,Japon,Sedan,Gas,76,6851,Prime Auto Andino,Pereira,5172,8328,169,2026-01-01
+705,Dodge,Estados Unidos,Sedan,Gas,65,7614,Velocitymotors,Bucaramanga,4563,9046,188,2026-01-01
+706,Peugot,Francia,Sedan,Diesel,94,17873,Velocitymotors,Bucaramanga,10593,21036,176,2026-01-01
+707,Alfa-Romero,Italia,Convertible,Gas,105,16229,Velocitymotors,Bucaramanga,9054,18967,121,2026-01-01
+708,Plymouth,Estados Unidos,Hatchback,Gas,106,5964,Motorcenter Sur,Medellin,3322,5971,197,2023-01-01
+709,Nissan,Japon,Hardtop,Gas,69,8407,Carworld Pacifico,Cali,5372,10419,186,2025-01-01
+710,Nissan,Japon,Sedan,Gas,73,7690,Autoplaza Nrote,Bogota,4418,9125,204,2026-01-01
+711,Subaru,Japon,Hatchback,Gas,76,7355,Motorcenter Sur,Medellin,8299,9298,190,2026-01-01
+712,Peugot,Francia,Sedan,Diesel,94,12738,Carworld Pacifico,Cali,9621,15918,118,2026-01-01
+713,Toyota,Japon,Hatchback,Gas,64,5355,Carworld Pacifico,Cali,3269,5716,190,2025-01-01
+714,Toyota,Japon,Hatchback,Gas,75,7242,Velocitymotors,Bucaramanga,4301,8274,215,2026-01-01
+715,Volkswagen,Alemania,Sedan,Gas,107,9346,Autoplaza Norte,Bogota,6080,11392,214,2026-01-01
+716,Toyota,Japon,Hatchback,Gas,67,8186,Motorcenter Sur,Medellin,5842,9060,150,2026-01-01
+717,Peugot,Francia,Sedan,Gas,94,11906,Autoplaza Norte,Bogota,7158,13231,139,2026-01-01
+718,Nissan,Japon,Sedan,Gas,160,13397,Autoplaza Norte,Bogota,9087,13907,149,2026-01-01
+719,Mazda,Japon,Hatchback,Gas,65,5118,Carworld Pacifico,Cali,3077,6278,185,2026-01-01
+720,Plymouth,Estados Unidos,Wagon,Gas,84,8753,Motorcenter Sur,Medellin,6434,10066,171,2026-01-01
+721,Dodge,Estados Unidos,Wagon,Gas,87,8866,Autoplaza Norte,Bogota,6589,9736,167,2023-01-01
+722,Volkswagen,Alemania,Sedan,Gas,112,13337,Autoplaza Norte,Bogota,8593,14299,147,2024-01-01
+723,Toyota,Japon,Sedan,Gas,103,9137,Carworld Pacifco,Cali,6440,11449,160,2025-01-01
+724,Dodge,Estados Unidos,Sedan,Gas,66,6945,Primeauto Andino,Pereira,5072,8222,154,2026-01-01
+725,Toyota,Japon,Hatchback,Gas,68,8272,Drivehub Caribe,Barranquilla,5081,8981,184,2026-01-01
+726,Dodge,Estados Unidos,Hatchback,Gas,66,6130,Motorcenter Sur,Medellin,4079,6663,190,2026-01-01
+727,Subaru,Japon,Wagon,Gas,79,8136,Drivehub Caribe,Barranquilla,4501,9910,170,2025-01-01
+728,Chevrolet,Estados Unidos,Hatchback,Gas,52,5261,Primeauto Andino,Pereira,3525,6379,186,2026-01-01
+729,Nissan,Japon,Sedan,Gas,154,13294,Autoplaza Norte,Bogota,8604,14797,139,2026-01-01
+730,Saab,Suecia,Hatchback,Gas,165,18652,Primeauto Andino,Pereira,11075,21746,166,2025-01-01
+731,Toyota,Japon,Hatchback,Gas,61,5531,Carworld Pacifico,Cali,3403,5986,193,2025-01-01
+732,Mitsubishi,Japon,Sedan,Gas,115,9698,Primeauto Andino,Pereira,6261,11253,139,2024-01-01
+733,Volkswagen,Alemania,Convertible,Gas,88,12317,Carworld Pacifico,Cali,8238,13104,140,2026-01-01
+734,Toyota,Japon,Hatchback,Diesel,51,7552,Velocitymotors,Bucaramanga,4925,8895,178,2025-01-01
+735,Honda,Japon,Sedan,Gas,95,10350,Drivehub Caribe,Barranquilla,8685,12194,144,2024-01-01
+736,Subaru,Japon,Hatchback,Gas,65,5120,Autoplaza Norte,Bogota,3077,5860,175,2024-01-01
+737,Toyota,Japon,Hatchback,Gas,57,5330,Carworld Pacifico,Cali,3554,6023,199,2025-01-01
+738,Mercedes-Benz,Alemania,Sedan,Diesel,118,30882,Carworld Pacifico,Cali,22696,35679,82,2025-01-01
+739,Toyota,Japon,Hatchback,Gas,65,6151,Carworld Pacifico,Cali,4134,7599,200,2026-01-01
+740,Volkswagen,Alemania,Sedan,Diesel,52,8021,Autoplaza Norte,Bogota,6154,10120,180,2024-01-01
+741,Toyota,Japon,Hardtop,Gas,121,9380,Autoplaza Norte,Bogota,6112,10918,114,2024-01-01
+742,Toyota,Japon,Hatchback,Gas,71,7220,Velocitymotors,Bucaramanga,4068,8827,214,2026-01-01
+743,Renault,Francia,Hatchback,Gas,106,9620,Drivehub Caribe,Cali,5689,10636,140,2025-01-01
+744,Mazda,Japon,Hatchback,Gas,98,13120,Motorcenter Sur,Medellin,9109,14481,192,2024-01-01
+745,Toyota,Japon,Sedan,Gas,71,8124,Carworld Pacifico,Cali,4769,9026,205,2025-01-01
+746,Mitsubishi,Japon,Hatchback,Gas,70,5417,Carworld Pacifico,Cali,3375,6292,192,2023-01-01
+747,Peugot,Francia,Wagon,Gas,95,12692,Drivehub Caribe,Barranquilla,8683,14426,166,2023-01-01
+748,Mazda,Japon,Sedan,Diesel,73,19747,Primeauto Andino,Pereira,13496,20246,130,2025-01-01
+749,Mazda,Japon,Sedan,Gas,122,18457,Drivehub Caribe,Barranquilla,12624,20871,156,2026-01-01
+750,Honda,Japon,Hatchback,Gas,59,5491,Motorcenter Sur,Medellin,3835,6081,212,2025-01-01
+751,Volvo,Suecia,Wagon,Gas,110,15892,Velocitymotors,Bucaramanga,10115,19671,139,2026-01-01
+752,Honda,Japon,Hatchback,Gas,56,6187,Drivehub Caribee,Barranquilla,8224,6768,197,2026-01-01
+753,Chevrolet,Estados Unidos,Hatchback,Gas,48,5436,Primeauto Andino,Pereira,3507,6440,218,2026-01-01
+754,Volkswagen,Alemania,Sedan,Diesel,69,13398,Drivehub Caribe,Barranquilla,9274,15452,108,2024-01-01
+755,Peugot,Francia,Wagon,Diesel,92,16451,Autoplaza Norte,Bogota,12982,19564,145,2025-01-01
+756,Nissan,Japon,Sedan,Gas,69,6640,Velocitymotors,Bucaramanga,4612,7772,188,2024-01-01
+757,Toyota,Japon,Hatchback,Gas,63,6468,Carworld Pacifico,Cali,4098,7764,196,2026-01-01
+758,Mitsubishi,Japon,Hatchback,Gas,119,9644,Motorcenter Sur,Medellin,5688,10565,169,2025-01-01
+759,Dodge,Estados Unidos,Sedan,Gas,72,7528,Velocitymotors,Bucaramanga,4599,9126,182,2026-01-01
+760,Toyota,Japon,Hatchback,Gas,65,5578,Carworld Pacifico,Cali,3543,5930,194,2025-01-01
+761,Honda,Japon,Wagon,Gas,73,7089,Primeauto Andiino,Cali,5038,7790,151,2026-01-01
+762,Peugot,Francia,Wagon,Diesel,101,16242,Autoplaza Norte,Bogota,12855,18459,157,2025-01-01
+763,Volvo,Suecia,Sedan,Gas,112,13367,Drivehub Caribe,Barranquilla,9087,13372,189,2026-01-01
+764,Volkswagen,Alemania,Sedan,Diesel,70,14084,Drivehub Caribe,Barranquilla,9594,14930,124,2024-01-01
+765,Mercury,Estados Unidos,Hatchback,Gas,175,16145,Motorcenter Sur,Medellin,10204,19678,162,2024-01-01
+766,Toyota,Japon,Sedan,Gas,69,7310,Drivehub Caribe,Barranquilla,4937,8641,218,2025-01-01
+767,Porsche,Alemania,Hardtop,Gas,194,31680,Velocitymotors,Bucaramanga,21205,38448,65,2026-01-01
+768,Nissan,Japon,Hatchback,Gas,96,8932,Carworld Pacifico,Cali,6667,9749,154,2026-01-01
+769,Dodge,Estados Unidos,Hatchback,Gas,137,13493,Autoplaza Norte,Bogota,7570,15642,139,2026-01-01
+770,Mitsubishi,Japon,Hatchback,Gas,70,6427,Velocitymotors,Bucaramanga,5195,7426,170,2026-01-01
+771,Saab,Suecia,Sedan,Gas,116,15464,Velocitymotors,Bucaramanga,10229,17877,138,2026-01-01
+772,Volvo,Suecia,Sedan,Gas,130,21993,Drivehub Caribe,Barranquilla,12508,24178,146,2023-01-01
+773,Alfa-Romero,Italia,Convertible,Gas,112,12370,Carworld Pacifico,Cali,8800,13291,160,2025-01-01
+774,Subaru,Japon,Wagon,Gas,80,8303,Drivehub Caribe,Barranquilla,4393,9345,197,2025-01-01
+775,Toyota,Japon,Sedan,Diesel,71,10255,Carworld Pacifico,Cali,6043,12310,148,2026-01-01
+776,Volvo,Suecia,Wagon,Gas,117,13571,Autoplaza Norte,Bogota,7336,14537,187,2025-01-01
+777,Mitsubishi,Japon,Sedan,Gas,116,9359,Carworld Pacifico,Cali,6396,11533,154,2024-01-01
+778,Dodge,Estados Unidos,Hatchback,Gas,72,6465,Motorcenter Sur,Medellin,3889,7013,189,2026-01-01
+779,Mazda,Japon,Hatchback,Gas,99,13908,Motorcenter Sur,Medellin,8921,14647,181,2024-01-01
+780,Toyota,Japon,Sedan,Diesel,76,9808,Carworld Pacifico,Cali,5994,12023,171,2026-01-01
+781,Toyota,Japon,Sedan,Gas,157,15259,Carworld Pacifico,Cali,8543,17522,149,2026-01-01
+782,Saab,Suecia,Hatchback,Gas,113,11907,Drivehub Caribe,Barranquilla,8628,12384,200,2026-01-01
+783,Dodge,Estados Unidos,Sedan,Gas,67,6646,Primeauto Andino,Pereira,5279,8079,185,2026-01-01
+784,Dodge,Estados Unidos,Sedan,Gas,68,6804,Primeauto Andino,Pereira,4911,7657,163,2026-01-01
+785,Nissan,Japon,Hatchback,Gas,97,9196,Carworld Pacifico,Cali,6558,9801,149,2026-01-01
+786,Plymouth,Estados Unidos,Sedan,Gas,66,6835,Autoplaza Norte,Bogota,3804,7225,185,2026-01-01
+787,Audi,Alemania,Sedan,Gas,113,17577,Drivehub Caribe,Barranquilla,10251,18948,108,2026-01-01
+788,Subaru,Japon,Sedan,Gas,84,6666,Primeauto Andino,Pereira,3884,8808,199,2023-01-01
+789,Peugot,Francia,Sedan,Diesel,97,16631,Drivehub Caribe,Cali,10843,18513,128,2026-01-01
+790,Alfa-Romero,Italia,Hatchback,Gas,162,16740,Drivehub Caribe,Barranquilla,10288,18462,150,2026-01-01
+791,Chevrolet,Estados Unidos,Sedan,Gas,74,6324,Carworld Pacifico,Cali,3680,7246,218,2024-01-01
+792,Nissan,Japon,Sedan,Gas,68,7460,Velocitymotors,Bucaramanga,5304,8844,160,2025-01-01
+793,Subaru,Japon,Wagon,Gas,112,12066,Autoplaza Nrote,Bogota,7683,14372,176,2026-01-01
+794,Toyota,Japon,Hatchback,Gas,101,10033,Velocitymotor,Bucaramanga,6429,11549,178,2023-01-01
+795,Nissan,Japon,Sedan,Gas,69,5118,Autoplaza Norte,Bogota,3576,6506,154,2026-01-01
+796,Mazda,Japon,Sedan,Gas,82,9787,Car World Pacifico,Cali,7618,12118,155,2025-01-01
+797,Volvo,Suecia,Sedan,Gas,171,19636,Autoplaza Norte,Bogota,7914,21681,103,2026-01-01
+798,Nissan,Japon,Hatchback,Gas,70,7650,Motorcenter Sur,Medellin,4834,8875,176,2026-01-01
+799,Mazda,Japon,Sedan,Diesel,71,17070,Primeauto Andino,Pereira,13026,20036,146,2025-01-01
+800,Nissan,Japon,Sedan,Gas,72,6936,Velocitymotors,Bucaramanga,4712,8097,177,2024-01-01
+801,Alfa-Romero,Italia,Hatchback,Gas,142,16508,Drivehub Caribe,Barranquilla,10180,17605,144,2026-01-01
+802,Mazda,Japon,Sedan,Diesel,59,11212,Carworld Pacifico,Cali,7634,12883,141,2025-01-01
+803,Nissan,Japon,Hatchback,Gas,164,18577,Autoplaza Norte,Bogota,12390,20583,134,2025-01-01
+804,Volkswagen,Alemania,Sedan,Gas,100,10155,Autoplaza Norte,Bogota,5711,11569,204,2026-01-01
+805,Toyota,Japon,Hatchback,Gas,63,6570,Carworld Pacifico,Cali,4135,8159,197,2026-01-01
+806,Toyota,Japon,Hatchback,Gas,67,8562,Drivehub Caribe,Barranquilla,4898,8836,174,2026-01-01
+807,Peugot,Francia,Sedan,Diesel,95,18247,Drivehub Caribe,Cali,11582,18189,128,2026-01-01
+808,Dodge,Estados Unidos,Hatchback,Gas,111,8227,Carworld Pacifico,Cali,5574,8998,157,2024-01-01
+809,Mitsubishi,Japon,Hatchback,Gas,107,8029,Car World Pacifico,Cali,5316,9832,178,2026-01-01
+810,Volvo,Suecia,Sedan,Gas,115,22979,Autoplaza Norte,Bogota,13136,24074,132,2026-01-01
+811,Audi,Alemania,Sedan,Gas,138,24829,Drivehub Caribe,Barranquilla,14545,26688,84,2026-01-01
+812,Toyota,Japon,Sedan,Gas,154,16350,Carworld Pacifico,Cali,8729,16351,143,2026-01-01
+813,Subaru,Japon,Sedan,Gas,76,7020,Primeauto Andino,Pereira,4003,8845,218,2023-01-01
+814,Mazda,Japon,Sedan,Gas,85,8841,Carworld Pacifico,Cali,5041,9661,170,2026-01-01
+815,Toyota,Japon,Sedan,Gas,72,7989,Drivehub Caribe,Barranquilla,5197,8711,203,2025-01-01
+816,Toyota,Japon,Convertible,Gas,110,19260,Carworld Pacifico,Cali,13347,18582,117,2026-01-01
+817,Audi,Alemania,Sedan,Gas,137,23248,Drivehub Caribe,Barranquilla,14374,27592,90,2026-01-01
+818,Dodge,Estados Unidos,Hatchback,Gas,65,6264,Autoplaza Norte,Bogota,3757,7775,185,2026-01-01
+819,Saab,Suecia,Sedan,Gas,155,18421,Drivehub Caribe,Barranquilla,11867,20965,122,2025-01-01
+820,Volvo,Suecia,Sedan,Gas,114,22237,Autoplaza Norte,Bogota,13492,24073,119,2026-01-01
+821,Audi,Alemania,Sedan,Gas,107,16906,Velocitymotor,Bucaramanga,12896,20289,76,2026-01-01
+822,Saab,Suecia,Sedan,Gas,163,16820,Drivehub Caribe,Barranquilla,12192,20570,127,2025-01-01
+823,Dodge,Estados Unidos,Wagon,Gas,90,8785,Autoplaza Norte,Bogota,6547,10247,191,2023-01-01
+824,Saab,Suecia,Hatchback,Gas,109,15234,Drivehub Caribe,Barranquilla,11529,16782,173,2025-01-01
+825,Porsche,Alemania,Convertible,Gas,189,36389,Carworld Pacifico,Cali,22650,40199,29,2026-01-01
+826,Chevrolet,Estados Unidos,Hatchback,Gas,68,6721,Motor Center Sur,Medellin,4279,7497,197,2024-01-01
+827,Subaru,Japon,Hatchback,Gas,76,7607,Motorcenter Sur,Medellin,8756,9700,178,2026-01-01
+828,Volkswagen,Alemania,Sedan,Diesel,48,8356,Autoplaza Norte,Bogota,5654,9689,186,2024-01-01
+829,Toyota,Japon,Hatchback,Gas,91,11351,Primeauto Andino,Pereira,7738,10955,199,2026-01-01
+830,Audi,Alemania,Sedan,Gas,105,15691,Motorcenter Sur,Medellin,10373,17699,127,2025-01-01
+831,Mazda,Japon,Hatchback,Gas,70,6861,Carworld Pacifico,Cali,5187,7576,174,2025-01-01
+832,Mazda,Japon,Hatchback,Gas,66,6387,Autoplaza Norte,Bogota,3544,6911,170,2025-01-01
+833,Nissan,Japon,Sedan,Gas,70,7313,Velocitymotors,Bucaramanga,5363,8799,166,2025-01-01
+834,Dodge,Estados Unidos,Hatchback,Gas,148,13189,Autoplaza Norte,Bogota,7807,14864,150,2026-01-01
+835,Toyota,Japon,Hatchback,Gas,98,10116,Carworld Pacifico,Cali,6480,11337,199,2026-01-01
+836,Toyota,Japon,Sedan,Gas,70,7660,Drivehub Caribe,Barranquilla,5058,8760,193,2025-01-01
+837,Toyota,Japon,Hatchback,Gas,113,9673,Velocitymotors,Cali,8345,9870,201,2026-01-01
+838,Honda,Japon,Sedan,Gas,82,11100,Carworld Pacifico,Cali,6739,10960,127,2024-01-01
+839,Alfa-Romero,Italia,Hatchback,Gas,160,16344,Drivehub Caribe,Barranquilla,10182,21367,143,2026-01-01
+840,Volkswagen,Alemania,Sedan,Gas,101,9634,Primeauto Andino,Pereira,5097,10265,190,2026-01-01
+841,Mazda,Japon,Hatchback,Gas,82,11061,Carworld Pacifico,Cali,7231,11544,141,2026-01-01
+842,Saab,Suecia,Sedan,Gas,110,16129,Velocitymotors,Bucaramanga,10304,17202,118,2026-01-01
+843,Volkswagen,Alemania,Sedan,Gas,80,8498,Drivehub Caribe,Barranquilla,5218,9915,130,2026-01-01
+844,Audi,Alemania,Wagon,Gas,111,17342,Drivehub Caribe,Barranquilla,14633,21823,135,2024-01-01
+845,Alfa-Romero,Italia,Convertible,Gas,107,16798,Velocitymotors,Bucaramanga,9381,18916,137,2026-01-01
+846,Alfa-Romero,Italia,Convertible,Gas,105,15218,Velocitymotors,Bucaramanga,9479,19917,141,2026-01-01
+847,Honda,Japon,Hatchback,Gas,57,5677,Motorcenter Sur,Medellin,3905,5940,185,2025-01-01
+848,Bmw,Alemania,Sedan,Gas,101,17025,Carworld Pacifico,Cali,10448,18164,169,2023-01-01
+849,Toyota,Japon,Hardtop,Gas,119,9976,Autoplaza Norte,Bogota,6038,10051,141,2024-01-01
+850,Plymouth,Estados Unidos,Hatchback,Gas,135,12361,Autoplaza Norte,Bogota,7205,15827,160,2024-01-01
+851,Volvo,Suecia,Sedan,Gas,110,15930,Motorcenter Sur,Medellin,9562,18708,112,2026-01-01
+852,Toyota,Japon,Sedan,Gas,115,9383,Motorcenter Sur,Medellin,5570,10951,191,2026-01-01
+853,Volvo,Suecia,Wagon,Gas,115,16496,Velocitymotors,Bucaramanga,9473,19884,180,2026-01-01
+854,Mazda,Japon,Hatchback,Gas,69,5118,Carworld Pacifico,Cali,3101,6334,205,2026-01-01
+855,Mazda,Japon,Sedan,Gas,89,8520,Carworld Pacifico,Cali,5095,9348,155,2026-01-01
+856,Toyota,Japon,Sedan,Diesel,74,11734,Carworld Pacifico,Cali,5920,11964,174,2026-01-01
+857,Mazda,Japon,Hatchback,Gas,70,6993,Carworld Pacifico,Cali,5159,7441,204,2025-01-01
+858,Bmw,Alemania,Sedan,Gas,132,21740,Drive Hub Caribe,Barranquilla,11231,24980,109,2026-01-01
+859,Subaru,Japon,Hatchback,Gas,68,5269,Autoplaza Norte,Bogota,3077,5622,204,2024-01-01
+860,Toyota,Japon,Hatchback,Gas,68,8665,Motorcenter Sur,Medellin,6046,8331,151,2026-01-01
+861,Volvo,Suecia,Sedan,Gas,164,18297,Autoplaza Norte,Bogota,8774,22722,109,2026-01-01
+862,Volkswagen,Alemania,Hatchback,Gas,91,9262,Velocitymotors,Bucaramanga,9050,10544,218,2025-01-01
+863,Dodge,Estados Unidos,Sedan,Gas,67,6648,Primeauto Andino,Pereira,5134,7708,148,2026-01-01
+864,Toyota,Japon,Hatchback,Diesel,54,8009,Velocitymotors,Bucaramanga,4512,8758,170,2025-01-01
+865,Toyota,Japon,Sedan,Diesel,79,10335,Carworld Pacifico,Cali,5923,12050,155,2026-01-01
+866,Subaru,Japon,Sedan,Gas,83,9176,Motorcenter Sur,Medellin,5256,9492,166,2025-01-01
+867,Toyota,Japon,Hardtop,Gas,113,9406,Autoplaza Norte,Bogota,6132,9869,150,2024-01-01
+868,Toyota,Japon,Convertible,Gas,120,18598,Carworld Pacifico,Cali,13392,19021,129,2026-01-01
+869,Nissan,Japon,Sedan,Gas,69,7029,Velocitymotors,Bucaramanga,8271,7893,162,2025-01-01
+870,Audi,Alemania,Sedan,Gas,139,24419,Drivehub Caribe,Barranquilla,14438,28047,86,2026-01-01
+871,Nissan,Japon,Sedan,Gas,70,7458,Velocitymotors,Bucaramanga,5416,8373,172,2025-01-01
+872,Honda,Japon,Sedan,Gas,96,12928,Autoplaza Norte,Bogota,8704,14142,194,2026-01-01
+873,Dodge,Estados Unidos,Hatchback,Gas,105,8012,Carworld Pacifico,Cali,5495,8576,136,2024-01-01
+874,Dodge,Estados Unidos,Sedan,Gas,73,7293,Velocitymotors,Bucaramanga,4734,8605,185,2026-01-01
+875,Subaru,Japon,Sedan,Gas,83,8526,Motorcenter Sur,Medellin,4716,9542,196,2025-01-01
+876,Nissan,Japon,Hatchback,Gas,158,17289,Autoplaza Norte,Bogota,9400,19956,93,2024-01-01
+877,Peugot,Francia,Sedan,Gas,93,15757,Autoplaza Norte,Bogota,9424,17517,167,2026-01-01
+878,Toyota,Japon,Wagon,Gas,61,7211,Primeauto Andino,Cali,3876,8130,155,2026-01-01
+879,Peugot,Francia,Wagon,Gas,94,17613,Drivehub Caribe,Barranquilla,11157,20624,141,2026-01-01
+880,Renault,Francia,Wagon,Gas,102,9806,Primeauto Andino,Pereira,5650,10445,154,2026-01-01
+881,Chevrolet,Estados Unidos,Hatchback,Gas,50,5118,Primeauto Andino,Pereira,3134,6211,194,2026-01-01
+882,Toyota,Japon,Hatchback,Gas,86,9865,Carworld Pacifico,Cali,6337,11211,211,2026-01-01
+883,Nissan,Japon,Wagon,Gas,71,7473,Motorcenter Sur,Medellin,4602,8318,211,2026-01-01
+884,Honda,Japon,Hatchback,Gas,59,5877,Motorcenter Sur,Medellin,3962,5622,203,2025-01-01
+885,Toyota,Japon,Hardtop,Gas,118,8887,Primeauto Andiino,Pereira,4752,9539,162,2026-01-01
+886,Toyota,Japon,Hatchback,Gas,60,6586,Velocity Motors,Bucaramanga,4343,7471,182,2026-01-01
+887,Bmw,Alemania,Sedan,Gas,106,16695,Carworld Pacifico,Cali,10594,17698,186,2023-01-01
+888,Honda,Japon,Sedan,Gas,90,8572,Carworld Pacifico,Cali,6598,10143,207,2025-01-01
+889,Audi,Alemania,Sedan,Gas,105,14335,Velocitymotors,Bucaramanga,8397,15768,168,2026-01-01
+890,Mazda,Japon,Hatchback,Gas,96,13119,Motorcenter Sur,Medellin,8947,14032,189,2024-01-01
+891,Dodge,Estados Unidos,Hatchback,Gas,70,5526,Velocitymotors,Bucaramanga,3290,6385,195,2024-01-01
+892,Subaru,Japon,Wagon,Gas,83,7433,Carworld Pacifico,Cali,3964,7758,188,2026-01-01
+893,Peugot,Francia,Sedan,Diesel,90,13936,Carworld Pacifico,Cali,9396,16570,109,2026-01-01
+894,Volvo,Suecia,Sedan,Gas,160,18809,Carworld Pacifico,Cali,10830,22839,115,2026-01-01
+895,Toyota,Japon,Wagon,Gas,63,7224,Velocitymotors,Bucaramanga,5770,7716,188,2023-01-01
+896,Porsche,Alemania,Hatchback,Gas,106,22407,Primeauto Andino,Pereira,13315,24467,120,2026-01-01
+897,Nissan,Japon,Hatchback,Gas,201,19217,Autoplaza Norte,Bogota,14609,21274,131,2023-01-01
+898,Bmw,Alemania,Sedan,Gas,102,16950,Carworld Pacifico,Cali,10339,17516,159,2023-01-01
+899,Bmw,Alemania,Sedan,Gas,191,30667,Motorcenter Sur,Medellin,20901,33811,79,2026-01-01
+900,Porsche,Alemania,Hardtop,Gas,216,32216,Velocitymotors,Bucaramanga,22433,40358,66,2026-01-01
+901,Alfa-Romero,Italia,Convertible,Gas,100,13868,Carworld Pacifico,Cali,8609,14359,135,2025-01-01
+902,Audi,Alemania,Sedan,Gas,138,22594,Drivehub Caribe,Barranquilla,15352,28713,85,2026-01-01
+903,Jaguar,Reino Unido,Sedan,Gas,175,31666,Velocitymotors,Bucaramanga,18639,37464,74,2024-01-01
+904,Toyota,Japon,Wagon,Gas,146,16127,Autoplaza Norte,Bogota,9986,17952,153,2025-01-01
+905,Nissan,Japon,Hatchback,Gas,69,7631,Motorcenter Sur,Medellin,5041,8874,199,2026-01-01
+906,Subaru,Japon,Wagon,Gas,86,7043,Carworld Pacifico,Cali,4177,7999,170,2026-01-01
+907,Mitsubishi,Japon,Sedan,Gas,85,7153,Carworld Pacifico,Cali,4767,8332,180,2025-01-01
+908,Honda,Japon,Sedan,Gas,77,7582,Prime Auto Andino,Pereira,4776,7861,171,2026-01-01
+909,Mitsubishi,Japon,Hatchback,Gas,66,6179,Primeauto Andino,Pereira,3888,7334,187,2026-01-01
+910,Chevrolet,Estados Unidos,Hatchback,Gas,68,5863,Motor Center Sur,Medellin,4050,7476,218,2024-01-01
+911,Toyota,Japon,Sedan,Diesel,59,8093,Carworld Pacifico,Cali,4139,8875,182,2024-01-01
+912,Honda,Japon,Hatchback,Gas,84,7436,Primeauto Andino,Pereira,4757,8725,159,2026-01-01
+913,Mitsubishi,Japon,Hatchback,Gas,69,6741,Velocitymotors,Bucaramanga,4811,7254,160,2026-01-01
+914,Volvo,Suecia,Sedan,Gas,107,16322,Motorcenter Sur,Medellin,9770,18728,112,2026-01-01
+915,Plymouth,Estados Unidos,Sedan,Gas,72,6420,Autoplaza Norte,Bogota,4298,7498,218,2026-01-01
+916,Nissan,Japon,Hatchback,Gas,70,7678,Motorcenter Sur,Medellin,4810,9015,188,2026-01-01
+917,Peugot,Francia,Sedan,Diesel,94,16792,Drivehub Caribe,Cali,11061,18330,149,2026-01-01
+918,Toyota,Japon,Hatchback,Gas,71,8170,Drivehub Caribe,Barranquilla,4809,8741,161,2026-01-01
+919,Mazda,Japon,Sedan,Gas,65,7547,Motorcenter Sur,Medellin,4376,8031,212,2026-01-01
+920,Renault,Francia,Hatchback,Gas,108,9741,Drivehub Caribe,Cali,6166,11080,133,2025-01-01
+921,Toyota,Japon,Hatchback,Gas,159,16547,Motorcenter Sur,Medellin,9660,17827,159,2026-01-01
+922,Plymouth,Estados Unidos,Hatchback,Gas,103,5627,Motorcenter Sur,Medellin,3280,5980,174,2023-01-01
+923,Nissan,Japon,Sedan,Gas,68,6682,Velocitymotors,Bucaramanga,8860,8172,162,2025-01-01
+924,Honda,Japon,Hatchback,Gas,57,6283,Drivehub Caribee,Barranquilla,8092,6984,210,2026-01-01
+925,Mazda,Japon,Hatchback,Gas,70,6403,Carworld Pacifico,Cali,4851,7902,208,2025-01-01
+926,Volvo,Suecia,Sedan,Gas,115,13072,Drivehub Caribe,Barranquilla,9230,13477,155,2026-01-01
+927,Peugot,Francia,Sedan,Gas,97,15387,Autoplaza Norte,Bogota,10161,17894,168,2026-01-01
+928,Mazda,Japon,Sedan,Diesel,64,9899,Carworld Pacifico,Cali,7920,12509,140,2025-01-01
+929,Mitsubishi,Japon,Sedan,Gas,118,9105,Primeauto Andino,Pereira,6101,10383,151,2024-01-01
+930,Plymouth,Estados Unidos,Hatchback,Gas,101,7706,Autoplaza Norte,Bogota,4753,9317,198,2026-01-01
+931,Peugot,Francia,Sedan,Gas,102,16439,Autoplaza Norte,Bogota,8920,17658,185,2026-01-01
+932,Subaru,Japon,Sedan,Gas,78,8683,Motorcenter Sur,Medellin,5233,10055,175,2025-01-01
+933,Mazda,Japon,Sedan,Gas,71,7022,Motorcenter Sur,Medellin,4397,8183,208,2026-01-01
+934,Saab,Suecia,Hatchback,Gas,115,15624,Drivehub Caribe,Barranquilla,10001,16679,171,2025-01-01
+935,Nissan,Japon,Sedan,Gas,67,6965,Velocitymotors,Bucaramanga,4451,7483,175,2024-01-01
+936,Volkswagen,Alemania,Wagon,Gas,95,11970,Primeauto Andino,Pereira,7862,13489,163,2026-01-01
+937,Honda,Japon,Hatchback,Gas,62,5280,Motorcenter Sur,Medellin,4025,5907,213,2025-01-01
+938,Honda,Japon,Hatchback,Gas,60,6619,Drivehub Caribee,Barranquilla,8586,7094,202,2026-01-01
+939,Nissan,Japon,Hatchback,Gas,69,7164,Motorcenter Sur,Medellin,5181,9422,164,2026-01-01
+940,Nissan,Japon,Hatchback,Gas,198,18416,Autoplaza Norte,Bogota,14757,22238,144,2023-01-01
+941,Subaru,Japon,Sedan,Gas,81,7699,Drivehub Caribe,Barranquilla,5232,8686,171,2026-01-01
+942,Mitsubishi,Japon,Hatchback,Gas,147,15275,Primeauto Andino,Pereira,10502,16411,134,2026-01-01
+943,Volkswagen,Alemania,Sedan,Gas,109,9350,Primeauto Andino,Pereira,5216,10273,179,2026-01-01
+944,Nissan,Japon,Hardtop,Gas,69,8278,Carworld Pacifico,Cali,6197,9358,215,2025-01-01
+945,Dodge,Estados Unidos,Sedan,Gas,66,7911,Velocitymotors,Bucaramanga,4855,9153,176,2026-01-01
+946,Dodge,Estados Unidos,Hatchback,Gas,70,6688,Motorcenter Sur,Medellin,4065,6701,203,2026-01-01
+947,Volvo,Suecia,Wagon,Gas,167,18567,Drivehub Caribe,Barranquilla,11933,20512,116,2026-01-01
+948,Dodge,Estados Unidos,Sedan,Gas,104,8553,Carworld Pacifico,Cali,6505,9724,218,2025-01-01
+949,Volvo,Suecia,Sedan,Gas,117,13765,Drivehub Caribe,Barranquilla,9256,13015,209,2026-01-01
+950,Mazda,Japon,Hatchback,Gas,134,14811,Velocitymotors,Cali,10728,17757,155,2026-01-01
+951,Chevrolet,Estados Unidos,Hatchback,Gas,68,6521,Motor Center Sur,Medellin,4415,6999,200,2024-01-01
+952,Mazda,Japon,Hatchback,Gas,81,10844,Velocitymotors,Bucaramanga,7009,12435,145,2026-01-01
+953,Porsche,Alemania,Hardtop,Gas,195,32645,Velocitymotors,Bucaramanga,22340,38286,65,2026-01-01
+954,Nissan,Japon,Sedan,Gas,70,5452,Autoplaza Norte,Bogota,3557,7035,167,2026-01-01
+955,Toyota,Japon,Hatchback,Gas,70,8078,Drivehub Caribe,Barranquilla,5238,9332,178,2026-01-01
+956,Porsche,Alemania,Hatchback,Gas,102,21260,Primeauto Andino,Pereira,12733,25454,114,2026-01-01
+957,Mitsubishi,Japon,Hatchback,Gas,130,15013,Motorcenter Sur,Medellin,9300,16548,151,2026-01-01
+958,Renault,Francia,Hatchback,Gas,99,10240,Drivehub Caribe,Cali,6021,10556,140,2025-01-01
+959,Volvo,Suecia,Wagon,Gas,168,18864,Drivehub Caribe,Barranquilla,12508,20835,119,2026-01-01
+960,Mitsubishi,Japon,Sedan,Gas,86,7006,Carworld Pacifico,Cali,5189,8253,184,2025-01-01
+961,Honda,Japon,Hatchback,Gas,77,6992,Drivehub Caribe,Barranquilla,4732,6914,169,2026-01-01
+962,Mitsubishi,Japon,Sedan,Gas,84,6751,Carworld Pacifico,Cali,4863,8147,195,2025-01-01
+963,Toyota,Japon,Convertible,Gas,122,18126,Carworld Pacifico,Cali,12972,18084,123,2026-01-01
+964,Isuzu,Japon,Hatchback,Gas,90,11365,Drivehub Caribe,Barranquilla,7999,12221,164,2024-01-01
+965,Volvo,Suecia,Sedan,Gas,115,14119,Drivehub Caribe,Barranquilla,8902,13215,167,2026-01-01
+966,Plymouth,Estados Unidos,Sedan,Gas,74,6604,Autoplaza Norte,Bogota,4147,7543,183,2026-01-01
+967,Plymouth,Estados Unidos,Wagon,Gas,93,8778,Motorcenter Sur,Medellin,6791,10366,168,2026-01-01
+968,Mazda,Japon,Sedan,Diesel,71,18838,Primeauto Andino,Pereira,12962,21747,139,2025-01-01
+969,Volkswagen,Alemania,Convertible,Gas,88,11927,Carworld Pacifico,Cali,8534,13168,147,2026-01-01
+970,Audi,Alemania,Wagon,Gas,109,18566,Drivehub Caribe,Barranquilla,13396,21953,133,2024-01-01
+971,Mazda,Japon,Sedan,Diesel,65,10643,Carworld Pacifico,Cali,7978,12425,142,2025-01-01
+972,Mitsubishi,Japon,Sedan,Gas,116,9455,Primeauto Andino,Pereira,6525,10520,165,2024-01-01
+973,Nissan,Japon,Hardtop,Gas,68,8010,Carworld Pacifico,Cali,5783,9837,186,2025-01-01
+974,Nissan,Japon,Hardtop,Gas,73,8130,Carworld Pacifico,Cali,5930,9899,191,2025-01-01
+975,Honda,Japon,Hatchback,Gas,58,6499,Drivehub Caribee,Barranquilla,8292,7609,215,2026-01-01
+976,Jaguar,Reino Unido,Sedan,Gas,190,36789,Autoplaza Norte,Bogota,23596,36719,49,2026-01-01
+977,Chevrolet,Estados Unidos,Sedan,Gas,70,6436,Carworld Pacifico,Cali,3600,7460,218,2024-01-01
+978,Plymouth,Estados Unidos,Hatchback,Gas,110,5213,Motorcenter Sur,Medellin,3337,6004,205,2023-01-01
+979,Mercedes-Benz,Alemania,Sedan,Gas,186,38212,Primeauto Andino,Pereira,30504,48571,31,2026-01-01
+980,Peugot,Francia,Sedan,Diesel,98,17159,Velocitymotors,Bucaramanga,11009,21023,176,2026-01-01
+981,Plymouth,Estados Unidos,Sedan,Gas,66,6384,Autoplaza Norte,Bogota,4001,7419,207,2026-01-01
+982,Subaru,Japon,Sedan,Gas,108,11198,Motorcenter Sur,Medellin,6760,12563,147,2026-01-01
+983,Peugot,Francia,Sedan,Diesel,97,16197,Drivehub Caribe,Cali,10623,18231,134,2026-01-01
+984,Saab,Suecia,Hatchback,Gas,114,14670,Drivehub Caribe,Barranquilla,10583,17355,142,2025-01-01
+985,Plymouth,Estados Unidos,Sedan,Gas,68,6511,Autoplaza Norte,Bogota,4513,7573,218,2026-01-01
+986,Saab,Suecia,Sedan,Gas,105,15271,Velocitymotors,Bucaramanga,10734,18144,132,2026-01-01
+987,Porsche,Alemania,Hardtop,Gas,197,34034,Velocitymotors,Bucaramanga,20780,37369,67,2026-01-01
+988,Mazda,Japon,Sedan,Diesel,68,18769,Primeauto Andino,Pereira,13868,22492,130,2025-01-01
+989,Mazda,Japon,Hatchback,Gas,64,6799,Carworld Pacifico,Cali,5238,7350,204,2025-01-01
+990,Toyota,Japon,Sedan,Gas,70,9109,Primeauto Andino,Pereira,6267,10195,134,2026-01-01
+991,Mercedes-Benz,Alemania,Sedan,Gas,161,33666,Motorcenter Sur,Medellin,21119,35217,75,2025-01-01
+992,Peugot,Francia,Wagon,Gas,95,16887,Drivehub Caribe,Barranquilla,11518,20509,148,2026-01-01
+993,Honda,Japon,Sedan,Gas,79,10505,Carworld Pacifico,Cali,6606,11688,145,2024-01-01
+994,Nissan,Japon,Sedan,Gas,69,5324,Autoplaza Norte,Bogota,3553,6438,185,2026-01-01
+995,Peugot,Francia,Wagon,Gas,96,12456,Drivehub Caribe,Barranquilla,8888,13746,156,2023-01-01
+996,Porsche,Alemania,Convertible,Gas,222,34395,Carworld Pacifico,Cali,20584,40562,23,2026-01-01
+997,Peugot,Francia,Sedan,Diesel,90,13298,Carworld Pacifico,Cali,9517,15321,121,2026-01-01
+998,Mercury,Estados Unidos,Hatchback,Gas,173,16943,Motorcenter Sur,Medellin,10487,20220,171,2024-01-01
+999,Volvo,Suecia,Wagon,Gas,121,16353,Velocitymotors,Bucaramanga,9613,19460,146,2026-01-01
+1000,Nissan,Japon,Hatchback,Gas,163,19569,Autoplaza Norte,Bogota,11642,21081,132,2025-01-01
